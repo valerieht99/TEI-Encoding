@@ -35,29 +35,29 @@ First of all, I just wanted to say thank you for making the trip down to <placeN
 
 Just to start off, a bit of background biographical information: where you’re from, your parents names, anything like that.</u>
 
-<u who="#parker">Okay. Well I was born in the northern part of <placeName><region type="state">Maine</region></placeName>. My parents are <persName>Robert [G. Parker]</persName> and <persName>Ruth [Trickey] Parker</persName>, and I spent some time living in various places but circled back to Maine when my father settled there to practice optometry.</u>
+<u who="#parker">Okay. Well I was born in the northern part of <placeName>Maine</placeName>. My parents are <persName>Robert [G. Parker]</persName> and <persName>Ruth [Trickey] Parker</persName>, and I spent some time living in various places but circled back to Maine when my father settled there to practice optometry.</u>
 
 <u who="#markowitz">Okay. And what did your—what did your father do before he went back to practice optometry?</u>
 
-<u who="#parker">He was a teacher. Both my mother and father were teachers in northern <placeName>Maine</placeName>, in <placeName><settlement type="town">Fort Fairfield</settlement>, <region type="state">Maine</region></placeName>.</u>
+<u who="#parker">He was a teacher. Both my mother and father were teachers in northern <placeName>Maine</placeName>, in <placeName>Fort Fairfield, Maine</placeName>.</u>
 
 <u who="#markowitz">Okay. Is that where they met?</u>
 
-<u who="#parker">No, they met at <placeName>University of Maine</placeName>. They were both musical, and Dad was an accompanist, and my mother was a soloist, and you can see where <emph>that</emph> went.</u>
+<u who="#parker">No, they met at <placeName>University of Maine</placeName>. They were both musical, and Dad was an accompanist, and my mother was a soloist, and you can see where that went.</u>
 
-<u who="#markowitz"><vocal><desc>Chuckles</desc></vocal> The perfect match.
+<u who="#markowitz">Chuckles The perfect match.
 
 So did you have any siblings?</u>
 
 <u who="#parker">I have one sister, <persName>Anna [M. Parker]</persName>. She’s six years younger than I am.</u>
 
-<u who="#markowitz">What was it like growing up in rural <placeName><region type="state">Maine</region></placeName> at the time?</u>
+<u who="#markowitz">What was it like growing up in rural <placeName>Maine</placeName> at the time?</u>
 
-<u who="#parker">Well, big fish in a small pond. This was my mother’s hometown, and the school there, the high school anyway, is a private school that is used by the town, as happens in lots of <placeName><region type="state">Maine</region></placeName>—small <placeName><region type="state">Maine</region></placeName> communities, so it was like—it was the advantages of a private school without it being private.</u>
+<u who="#parker">Well, big fish in a small pond. This was my mother’s hometown, and the school there, the high school anyway, is a private school that is used by the town, as happens in lots of <placeName>Maine</placeName>—small <placeName>Maine</placeName> communities, so it was like—it was the advantages of a private school without it being private.</u>
 
 <u who="#markowitz">And what sorts of things would you do for fun with your friends there?</u>
 
-<u who="#parker">Well, I was—I was very active physically. I learned to ski at a young age and skied <placeName><geogName type="mountain">Sugarloaf [Mountain]</geogName></placeName> when it cost two fifty a day.  And I was active in skiing and football, although I was a lesser light in that. And active in <orgName>Boy Scouts [of America]</orgName>. And met somebody on a trail on <placeName><geogName type="mountain">Mount Katahdin</geogName></placeName>, who had gone to <orgName>Dartmouth</orgName> and sold it by his being.</u>
+<u who="#parker">Well, I was—I was very active physically. I learned to ski at a young age and skied <placeName>Sugarloaf [Mountain]</placeName> when it cost two fifty a day.  And I was active in skiing and football, although I was a lesser light in that. And active in <orgName>Boy Scouts [of America]</orgName>. And met somebody on a trail on <placeName>Mount Katahdin</placeName>, who had gone to <orgName>Dartmouth</orgName> and sold it by his being.</u>
 
 <u who="#markowitz">What age was that?</u>
 
@@ -67,7 +67,7 @@ So did you have any siblings?</u>
 
 <u who="#parker">—at that time. So it sounded like a good place if people like that came from there.</u>
 
-<u who="#markowitz"><vocal><desc>Chuckles</desc></vocal> And so what—when exactly were you born?</u>
+<u who="#markowitz">[Chuckles] And so what—when exactly were you born?</u>
 
 <u who="#parker">I was born <date when="1942-01-21">January 21st, 1942</date>.</u>
 
@@ -77,23 +77,23 @@ So did you have any siblings?</u>
 
 <u who="#markowitz">Right, right. And so your parents were not involved in World War II?</u>
 
-<u who="#parker">Well, in a way. My father worked at the—as a welder in the shipyard in <placeName><settlement type="city">Portland</settlement></placeName>,—</u>
+<u who="#parker">Well, in a way. My father worked at the—as a welder in the shipyard in <placeName>Portland</placeName>,—</u>
 
 <u who="#markowitz">Okay.</u>
 
-<u who="#parker">—building—I can’t remember what they’re called, but—Liberty ships. <placeName><settlement type="city">Portland</settlement></placeName> built a—the rate of building of cargo ships called Liberty ships was enormous, and <placeName><settlement type="city">Portland</settlement></placeName> was one contributor.</u>
+<u who="#parker">—building—I can’t remember what they’re called, but—Liberty ships. <placeName>Portland</placeName> built a—the rate of building of cargo ships called Liberty ships was enormous, and <placeName>Portland</placeName> was one contributor.</u>
 
 <u who="#markowitz">Okay. Do you feel like politics or—you mentioned having to be quiet when the news came on. Was that a big part of your home or family life growing up?</u>
 
-<u who="#parker">To a certain extent. My parents were Republican[s]. <persName><affiliation>Senator</affiliation> Margaret Chase Smith</persName> was best friends with one of the big wheels in <placeName><settlement type="town">Pittsfield</settlement></placeName>, and so that’s—that was our—and we voted for <persName>Ike [President Dwight D. Eisenhower]</persName>, and I actually made a stop in <placeName><settlement type="town">Pittsfield</settlement></placeName>, probably because of this—this fellow who was a big political wheel in the <orgName>Republican Party</orgName>.</u>
+<u who="#parker">To a certain extent. My parents were Republican[s]. <persName>Senator Margaret Chase Smith</persName> was best friends with one of the big wheels in <placeName>Pittsfield</placeName>, and so that’s—that was our—and we voted for <persName>Ike [President Dwight D. Eisenhower]</persName>, and I actually made a stop in <placeName>Pittsfield</placeName>, probably because of this—this fellow who was a big political wheel in the <orgName>Republican Party</orgName>.</u>
 
 <u who="#markowitz">So you mentioned that you met someone hiking on a trail that sort of convinced you to check out <orgName>Dartmouth</orgName>. Were—were there other options at the time? What was it like finishing up high school, looking to the future?</u>
 
-<u who="#parker">Well, I was fairly well situated, from my accomplishments in high school, to at least apply to <orgName>Dartmouth</orgName>. And, in fact, I only applied to <orgName>Dartmouth</orgName>, and the headmaster of the high school was good friends with the <orgName>Bowdoin</orgName> [College] director of admissions, and I had a verbal assertion that if I didn’t get in to <orgName>Dartmouth</orgName>, I could go to <orgName>Bowdoin</orgName>. So I—I was—once I decided that <orgName>Dartmouth</orgName> looked to be the place I wanted to go—and my favorite color was green, too—<vocal><desc>Both chuckle</desc></vocal>—I was pretty well on track for that.
+<u who="#parker">Well, I was fairly well situated, from my accomplishments in high school, to at least apply to <orgName>Dartmouth</orgName>. And, in fact, I only applied to <orgName>Dartmouth</orgName>, and the headmaster of the high school was good friends with the <orgName>Bowdoin</orgName> [College] director of admissions, and I had a verbal assertion that if I didn’t get in to <orgName>Dartmouth</orgName>, I could go to <orgName>Bowdoin</orgName>. So I—I was—once I decided that <orgName>Dartmouth</orgName> looked to be the place I wanted to go—and my favorite color was green, too—[Both chuckle]—I was pretty well on track for that.
 
 And I probably couldn’t have afforded it if I hadn’t gotten a [U.S.]  <orgName>Navy</orgName> scholarship for the four years that I was here.</u>
 
-<u who="#markowitz">Was it common for students from this private high school you went to in <placeName><region type="state">Maine</region></placeName> to attend college after, or—</u>
+<u who="#markowitz">Was it common for students from this private high school you went to in <placeName>Maine</placeName> to attend college after, or—</u>
 
 <u who="#parker">Yes, there was a fairly high college rate. Not too many at <placeName>Dartmouth</placeName>. I don’t know—I don’t know of a <orgName>Dartmouth</orgName> graduate who preceded me from there, but there have been several since then.</u>
 
@@ -105,9 +105,9 @@ And I probably couldn’t have afforded it if I hadn’t gotten a [U.S.]  <orgNa
 
 <u who="#parker">Well, is there any other service? [He said with an apparent smile.]</u>
 
-         <u who="#markowitz"><vocal><desc>[Laughs.]</desc></vocal></u>
+         <u who="#markowitz">[Laughs.]</u>
 
-<u who="#parker">I chose <orgName>Navy</orgName> because I liked—I liked the idea of going to sea.  The process of getting the NROTC scholarship was to go through a rigorous physical in <placeName><settlement type="city"></settlement>Boston</placeName> and then take a—a test, which included folding and unfolding boxes, and I remembered it as meeting myself coming out more often than not, in answering those questions. But it turned out that I did okay in that, and so I was—I was actually given the scholarship before I had a place to use it.</u>
+<u who="#parker">I chose <orgName>Navy</orgName> because I liked—I liked the idea of going to sea.  The process of getting the NROTC scholarship was to go through a rigorous physical in <placeName>Boston</placeName> and then take a—a test, which included folding and unfolding boxes, and I remembered it as meeting myself coming out more often than not, in answering those questions. But it turned out that I did okay in that, and so I was—I was actually given the scholarship before I had a place to use it.</u>
 
 <u who="#markowitz">Oh, wow.</u>
 
@@ -147,7 +147,7 @@ And I probably couldn’t have afforded it if I hadn’t gotten a [U.S.]  <orgNa
 
 And each summer we would have a period of time devoted to training, so we didn’t get an entire summer off. By the way, it was fairly new at <orgName>Dartmouth</orgName>, <date when ="1960">the year I arrived</date>, that we went to a trimester system. Most schools at that time were on a two-semester system so that you wouldn’t end the semester until after you’ve taken a Christmas break, whereas we took our final exams and then went on break. Much nicer. And it also linked courses to each other much better, or would seem to. I didn’t test the other one, but I think this [chuckles] would be a better way of doing it.
 
-So each summer, we went for four to six weeks of summer training. The first year, we went aboard a ship, and it’s called a midshipman cruise.  You wear a funny hat that distinguishes you from the rest of the sailors on the ship, and so they pick on you. But it was really a lot of fun.  Took a—took a ride up the Saint Lawrence River on an aircraft carrier.  Aircraft carriers are nice. They’ve got a—they’ve got a ballroom for social functions right there on the hangar deck, so we had a good time in <placeName><settlement type="city">Montreal</settlement></placeName>—I mean in <placeName><settlement type="city">Quebec</settlement></placeName>, sorry.
+So each summer, we went for four to six weeks of summer training. The first year, we went aboard a ship, and it’s called a midshipman cruise.  You wear a funny hat that distinguishes you from the rest of the sailors on the ship, and so they pick on you. But it was really a lot of fun.  Took a—took a ride up the Saint Lawrence River on an aircraft carrier.  Aircraft carriers are nice. They’ve got a—they’ve got a ballroom for social functions right there on the hangar deck, so we had a good time in <placeName>Montreal</placeName>—I mean in <placeName>Quebec</placeName>, sorry.
 
 And the next summer was aviation summer, so we went—went in and we played around with airplanes, and it was hotter than hades down there where they took us, out on the—these tarmacs were really sweltering.
 
