@@ -39,30 +39,29 @@
 </teiHeader>
 <text>
   <body>
-    <u who="#CUMMINGS">So this is Emily Cummings speaking with Juanita [F.]  Ramsey-Jevne. I am in the Rauner Special Collections Library, and she is in Telluride, Colorado. It’s Monday, October 26^th^, 2015.
 
     So first I want to say thank you for speaking with me today. Why don’t we start off with some biographical information? What were your parents’ names, and where were you from?</u>
 
 
-    <u who="#RAMSEY-JEVNE">My father was Charles Ralph Ramsey, and my mother was Waneta Mae [Vieritz] Ramsey, and I was born in Little Rock, Arkansas, in 1958.</u>
+    <u who="#RAMSEY-JEVNE">My father was <persName>Charles Ralph Ramsey</persName>, and my mother was <persName>Waneta Mae [Vieritz] Ramsey</persName>, and I was born in <placeName>Little Rock, Arkansas</placeName>, in <date when ="1958">1958</date>.</u>
 
 
     <u who="#CUMMINGS">Okay. And what did your parents do for a living?</u>
 
 
-    <u who="#RAMSEY-JEVNE">Well, my father was a salesman, an insurance salesman, but he died in 1963 of cancer, and then my mother—didn’t work, we just kinda got by—from then on.</u>
+    <u who="#RAMSEY-JEVNE">Well, my father was a salesman, an insurance salesman, but he died in <date when="1963">1963</date> of cancer, and then my mother—didn’t work, we just kinda got by—from then on.</u>
 
 
     <u who="#RAMSEY-JEVNE">Okay. And what kind of area did you live in?</u>
 
 
-    <u who="#RAMSEY-JEVNE">We lived in Joplin, Missouri, after—it was right before my father died. He moved us to Joplin, Missouri which was a town of about 40,000 in southwest Missouri.</u>
+    <u who="#RAMSEY-JEVNE">We lived in <placeName>Joplin, Missouri</placeName>, after—it was right before my father died. He moved us to <placeName>Joplin, Missouri</placeName> which was a town of about 40,000 in southwest <placeName>Missouri</placeName>.</u>
 
 
     <u who="#CUMMINGS">And were you living in a suburb or a—</u>
 
 
-    <u who="#RAMSEY-JEVNE">Oh, we were living in a small, kind of typical 1960s neighborhood, where everybody had—it seemed like, had four kids. Kind of a lower- —lower-middle-class neighborhood of tract housing, [cross-talk; unintelligible].</u>
+    <u who="#RAMSEY-JEVNE">Oh, we were living in a small, kind of typical <date when="1960">1960s</date> neighborhood, where everybody had—it seemed like, had four kids. Kind of a lower- —lower-middle-class neighborhood of tract housing, [cross-talk; unintelligible].</u>
 
 
     <u who="#CUMMINGS">And—</u>
@@ -82,9 +81,9 @@
 
     <u who="#RAMSEY-JEVNE">Oh, that’s a whole ’nother story So my mom was undiag- —it’s a big story—so my dad died, and my mother had been suffering from mental illness, although I was too little to know it, and then after he died, there were no other adults around. There were no relatives. We didn’t—we didn’t know anybody in the town. So her—her mental illness got worse and worse and worse as we grew up. And we didn’t know she had it.
 
-    But luckily it was this town where kids could get jobs, and there was a grocery store and a Laundromat nearby, so considering it was so rough inside the house, we were really lucky that as soon as we walked out the door, it was a pretty supportive world to be able to just—and it was an era when nobody asked too many questions, so—excuse me. [Coughs.] We were able to get jobs and keep ourselves together. And then eventually, in 1975, we were able to get her some help. And—and—and that was—that was great.
+    But luckily it was this town where kids could get jobs, and there was a grocery store and a Laundromat nearby, so considering it was so rough inside the house, we were really lucky that as soon as we walked out the door, it was a pretty supportive world to be able to just—and it was an era when nobody asked too many questions, so—excuse me. [Coughs.] We were able to get jobs and keep ourselves together. And then eventually, in <date when="1975">1975</date>, we were able to get her some help. And—and—and that was—that was great.
 
-    But my husband [William R. “Bill” Jevne; Class of 1966, Tuck 1967], who as you know is a veteran of the Vietnam War—when we got together, we used to joke that—excuse me [clears throat]—I have to get a drink of water—we used to joke that he was a veteran of foreign wars and I was a veteran of domestic wars, because [chuckles] of my childhood.</u>
+    But my husband [<persName>William R. “Bill” Jevne</persName>; Class of <date when="1966">1966</date>, Tuck <date when ="1976">1967</date>], who as you know is a veteran of the Vietnam War—when we got together, we used to joke that—excuse me [clears throat]—I have to get a drink of water—we used to joke that he was a veteran of foreign wars and I was a veteran of domestic wars, because [chuckles] of my childhood.</u>
 
 
     <u who="#CUMMINGS">Yeah.</u>
@@ -96,13 +95,13 @@
     <u who="#CUMMINGS">[Chuckles]. So what—</u>
 
 
-    <u who="#RAMSEY-JEVNE">What _is_ interesting is my mother was a World War II Marine [in the U.S. Marine Corps]. She was a woman Marine in World War II. And so was my father.</u>
+    <u who="#RAMSEY-JEVNE">What _is_ interesting is my mother was a World War II Marine [in the <orgName>U.S. Marine Corps</orgName>]. She was a woman Marine in <name type = "event">World War II</name>. And so was my father.</u>
 
 
     <u who="#CUMMINGS">Oh, wow. Oh, okay. That’s interesting.</u>
 
 
-    <u who="#RAMSEY-JEVNE">And that’s [cross-talk; unintelligible]. And, as you know, my husband was a Marine, too, so—</u>
+    <u who="#RAMSEY-JEVNE">And that’s [cross-talk; unintelligible]. And, as you know, my husband was a <orgName>Marine</orgName>, too, so—</u>
 
 
     <u who="#CUMMINGS">Mm-hm.</u>
@@ -134,7 +133,7 @@
     <u who="#CUMMINGS">Right. And did you have any brothers or sisters growing up?</u>
 
 
-    <u who="#RAMSEY-JEVNE">I did. I was the youngest, and I had two twin sisters and an older brother. And he just missed going to Vietnam.</u>
+    <u who="#RAMSEY-JEVNE">I did. I was the youngest, and I had two twin sisters and an older brother. And he just missed going to <name type="event">Vietnam</name>.</u>
 
 
     <u who="#CUMMINGS">Oh okay.</u>
@@ -544,11 +543,11 @@
     <u who="#CUMMINGS">Mm-hm, yeah.</u>
 
 
-    <u who="#RAMSEY-JEVNE">Also the thing that happened is for the first time ever, there was starting to be support groups for Vietnam vets. So we had a support group like that started in our town, all of which I learned through Bill, because he was pretty open about—at work, he was pretty open about that he was going to—he was—had joined this support group, and the guys all went together to see _Platoon_. And there was a big </u> <u who="#debate">Would you go see _Platoon_? Can you handle things—you know, of people that I knew.
+    <u who="#RAMSEY-JEVNE">Also the thing that happened is for the first time ever, there was starting to be support groups for <name type="event">Vietnam</name> vets. So we had a support group like that started in our town, all of which I learned through <persName>Bill</persName>, because he was pretty open about—at work, he was pretty open about that he was going to—he was—had joined this support group, and the guys all went together to see _Platoon_. And there was a big </u> <u who="#debate">Would you go see _Platoon_? Can you handle things—you know, of people that I knew.
 
-    So Bill and I—we did not go see _Platoon_ together, but we went and saw _Raising Arizona_ together, which was this awful movie. And in the midst—right in the movie, there is an explosion. And by this time, Bill had talked at work about how he didn’t get therapy, and he’s starting to talk about his experiences. And in the movie, there’s an explosion, and this guy on a motorcycle gets blown up, and there’s a big close-up of a boot. All that’s left of this guy is a boot, a high-top boot, military boot, laced up.
+    So <persName>Bill</persName> and I—we did not go see _Platoon_ together, but we went and saw _Raising Arizona_ together, which was this awful movie. And in the midst—right in the movie, there is an explosion. And by this time, <persName>Bill</persName> had talked at work about how he didn’t get therapy, and he’s starting to talk about his experiences. And in the movie, there’s an explosion, and this guy on a motorcycle gets blown up, and there’s a big close-up of a boot. All that’s left of this guy is a boot, a high-top boot, military boot, laced up.
 
-    And Bill is next to me in the theater. It’s our very first date. And he starts shaking, and I look at him, and he goes, “I have to get outta here.” And we stand up and stumble our way out of the dark theater. And out in the lobby he was just sobbing because—I’m sure he told you—and that was the first time he told me the story of his platoon getting bombed mistakenly by the U.S. aircraft, and him picking up body pieces.  And one of the things he found was a boot.</u>
+    And <persName>Bill</persName> is next to me in the theater. It’s our very first date. And he starts shaking, and I look at him, and he goes, “I have to get outta here.” And we stand up and stumble our way out of the dark theater. And out in the lobby he was just sobbing because—I’m sure he told you—and that was the first time he told me the story of his platoon getting bombed mistakenly by the U.S. aircraft, and him picking up body pieces.  And one of the things he found was a boot.</u>
 
 
     <u who="#CUMMINGS">Mm-hm.</u>
@@ -580,7 +579,7 @@
     <u who="#CUMMINGS">Uh-huh.</u>
 
 
-    <u who="#RAMSEY-JEVNE">Her father had been at [the Battle of] Iwo Jima in World War II. And he had been—he had been—I think a bomb had exploded. His entire lower jaw was blown off, and his face was full of shrapnel. And so my best friend’s father—his whole face—the lower part was all twisted and torn and scarred, and he couldn’t—when he spoke, we couldn’t really understand him. And her mother was a nurse, and they had met before he got blown up, and they never talked about it. Nobody ever talked about it.
+    <u who="#RAMSEY-JEVNE">Her father had been at <name type="event">[the Battle of] Iwo Jima</name> in <name type="event">World War II</name>. And he had been—he had been—I think a bomb had exploded. His entire lower jaw was blown off, and his face was full of shrapnel. And so my best friend’s father—his whole face—the lower part was all twisted and torn and scarred, and he couldn’t—when he spoke, we couldn’t really understand him. And her mother was a nurse, and they had met before he got blown up, and they never talked about it. Nobody ever talked about it.
 
     So—but we were—that was the era. You come home from war; you don’t talk about it; you get over it; you get on with your life. And so this was—in the ’80s, this was, like, “Okay, let’s help these soldiers. They need to talk about it.” So if some soldier talked to you and actually told you about the horrors of war, it felt like—it felt like a real huge honor of trust.</u>
 
@@ -611,16 +610,16 @@
     Go ahead. You ask a question. I’ll leap ahead to the final—and you’re doing a good job of taking us step by step through the process.</u>
 
 
-    <u who="#CUMMINGS">[Chuckles.] Yeah. Well, I guess I would just say, you know, how—after that moment, things—so that was in ’87, and you guys got married in ’88, right?</u>
+    <u who="#CUMMINGS">[Chuckles.] Yeah. Well, I guess I would just say, you know, how—after that moment, things—so that was in <date when="1987">’87</date>, and you guys got married in <date when ="1988">’88</date>, right?</u>
 
 
-    <u who="#RAMSEY-JEVNE">Yeah. We got—but we got engaged. This was interesting. So after that date, Bill wasn’t really quick to ask me out on another date because he was kind of—he—he—he had a setback, and he kind of went back into all the struggles he was having. But he eventually did ask.
+    <u who="#RAMSEY-JEVNE">Yeah. We got—but we got engaged. This was interesting. So after that date, <persName>Bill</persName> wasn’t really quick to ask me out on another date because he was kind of—he—he—he had a setback, and he kind of went back into all the struggles he was having. But he eventually did ask.
 
-    What was really interesting—and this is funny, to put into the Dartmouth thing—the next time we went on a date, we were having a fundraiser for our Head Start, and he showed up—he had cut his hair, and he had on totally different clothes.
+    What was really interesting—and this is funny, to put into the <orgName>Dartmouth</orgName> thing—the next time we went on a date, we were having a fundraiser for our <orgName>Head Start</orgName>, and he showed up—he had cut his hair, and he had on totally different clothes.
 
-    The hippie Vietnam vet in the cabin kind of disappeared, and for the first time ever, I saw the Dartmouth graduate.
+    The hippie <name type="event">Vietnam</name> vet in the cabin kind of disappeared, and for the first time ever, I saw the <orgName>Dartmouth</orgName> graduate.
 
-    I mean, he looked like a yuppie. He had this short haircut; he had a—I’m not kidding—he had—he had a sweater, you know, draped on his shoulder with the ends tucked in, like, you know, like you see in the movies of a 1950s fraternity brother. [Chuckles.]</u>
+    I mean, he looked like a yuppie. He had this short haircut; he had a—I’m not kidding—he had—he had a sweater, you know, draped on his shoulder with the ends tucked in, like, you know, like you see in the movies of a <date when="1950">1950s</date> fraternity brother. [Chuckles.]</u>
 
 
     <u who="#CUMMINGS">Yeah. [Chuckles.]</u>
@@ -628,11 +627,11 @@
 
     <u who="#RAMSEY-JEVNE">And I had never heard of Dartmouth. (I have to put this in there.) So were decorating this thing, and I’m looking at him, going, _Wow! This guy is, like, handsome! Whoa!_ Well, and we start talking, and I—I kind of say, “Now, where did you go to school?” And he goes, “Oh, I went to an Ivy League.” And I had to say, “What’s an Ivy League?”  Because I just didn’t know.
 
-    And he said—you know, oh, he said, “Dartmouth. That’s an Ivy League.”  And I had to say, “What’s an Ivy League?” So it was very [unintelligible] the Bill that most people knew was not the Vietnam vet—the Bill that the family—the people knew. They all knew the—and I really laughed. He said, “Well, I was in a fraternity.” And I just stared at him because I would never have dated a fraternity guy when I was in high school. [unintelligible] in college. And so I realized, _Oh, my gosh, I’m dating an Ivy League jock frat rat._
+    And he said—you know, oh, he said, “<orgName>Dartmouth</orgName>. That’s an Ivy League.”  And I had to say, “What’s an Ivy League?” So it was very [unintelligible] the <persName>Bill</persName> that most people knew was not the <name type="event">Vietnam</name> vet—the <persName>Bill</persName> that the family—the people knew. They all knew the—and I really laughed. He said, “Well, I was in a fraternity.” And I just stared at him because I would never have dated a fraternity guy when I was in high school. [unintelligible] in college. And so I realized, _Oh, my gosh, I’m dating an Ivy League jock frat rat._
 
-    And it was the farthest thing that ever I would have dated. But anyway, so we laughed a lot about that. And then that’s kind of—the two people I married. There would be Bill, who would be the guy that everybody at Dartmouth knew and his family knew, and then there was the very wounded Vietnam vet, which really nobody knew but me and his support group because he didn’t show that side of himself. Even his mother, when we first were engaged, pulled me aside and—because something had come up at a family party. We were back meeting his folks. And something—somebody said something, and the wound got—the button got pushed, and Bill became the wounded vet and had to excuse himself.
+    And it was the farthest thing that ever I would have dated. But anyway, so we laughed a lot about that. And then that’s kind of—the two people I married. There would be <persName>Bill</persName>, who would be the guy that everybody at <placeName>Dartmouth</placeName> knew and his family knew, and then there was the very wounded <name type="event">Vietnam</name> vet, which really nobody knew but me and his support group because he didn’t show that side of himself. Even his mother, when we first were engaged, pulled me aside and—because something had come up at a family party. We were back meeting his folks. And something—somebody said something, and the wound got—the button got pushed, and <persName>Bill</persName> became the wounded vet and had to excuse himself.
 
-    And his mother takes me aside and says—which—she’s World War II era—“What’s going on? I don’t understand. Why can’t he just get over it?” And here I am—you know, I’m 29 [chuckles] and Bill’s 44. And I’m explaining to her why her son can’t get over it, right? And she was so embarrassed that he was in therapy. That’s what it was. He was telling people about his therapy group, and she was ashamed.
+    And his mother takes me aside and says—which—she’s <name type="event">World War II</name> era—“What’s going on? I don’t understand. Why can’t he just get over it?” And here I am—you know, I’m 29 [chuckles] and <persName>Bill</persName>’s 44. And I’m explaining to her why her son can’t get over it, right? And she was so embarrassed that he was in therapy. That’s what it was. He was telling people about his therapy group, and she was ashamed.
 
     And I said, “No, no, no! Being in therapy is the best thing he could be doing.” And that’s another thing that’s so different. Therapy was considered a failure back then. I’m sure it’s not that way for you now.  I mean, who _hasn’t_ been to a therapist?</u>
 
@@ -640,7 +639,7 @@
     <u who="#CUMMINGS">Right.</u>
 
 
-    <u who="#RAMSEY-JEVNE">But at that point and for her era, the fact that Bill was in therapy meant something was wrong, and I had to tell her, “No, no, no. The fact that he’s in therapy means things are finally going right.”</u>
+    <u who="#RAMSEY-JEVNE">But at that point and for her era, the fact that <persName>Bill</persName> was in therapy meant something was wrong, and I had to tell her, “No, no, no. The fact that he’s in therapy means things are finally going right.”</u>
 
 
     <u who="#CUMMINGS">So would you say this—this sort of younger generation, like you and even Bill, were more open to people dealing with their problems the way that Bill did, or more understanding, I guess?</u>
