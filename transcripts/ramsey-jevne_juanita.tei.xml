@@ -40,7 +40,7 @@
 <text>
   <body>
 
-    So first I want to say thank you for speaking with me today. Why don’t we start off with some biographical information? What were your parents’ names, and where were you from?</u>
+    <u who="#CUMMINGS">So this is <persName>Emily Cummings</persName> speaking with <persName>Juanita [F.]  Ramsey-Jevne</persName>. I am in the <placeName>Rauner Special Collections Library</placeName>, and she is in <placeName>Telluride, Colorado</placeName>. It’s Monday, <date when = "2015-10-26">October 26^th^, 2015</date>. So first I want to say thank you for speaking with me today. Why don’t we start off with some biographical information? What were your parents’ names, and where were you from?</u>
 
 
     <u who="#RAMSEY-JEVNE">My father was <persName>Charles Ralph Ramsey</persName>, and my mother was <persName>Waneta Mae [Vieritz] Ramsey</persName>, and I was born in <placeName>Little Rock, Arkansas</placeName>, in <date when ="1958">1958</date>.</u>
