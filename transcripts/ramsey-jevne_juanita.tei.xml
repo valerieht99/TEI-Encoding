@@ -41,7 +41,7 @@
   <body>
     <u who="#CUMMINGS">So this is Emily Cummings speaking with Juanita [F.]  Ramsey-Jevne. I am in the Rauner Special Collections Library, and she is in Telluride, Colorado. It’s Monday, October 26^th^, 2015.
 
-    So first I want to say thank you for speaking with me today. Why don’t we start off with some biographical information? What were your parents’ names, and where were you from?</u>
+    <u who="#CUMMINGS">So this is <persName>Emily Cummings</persName> speaking with <persName>Juanita [F.]  Ramsey-Jevne</persName>. I am in the <placeName>Rauner Special Collections Library</placeName>, and she is in <placeName>Telluride, Colorado</placeName>. It’s Monday, <date when = "2015-10-26">October 26^th^, 2015</date>. So first I want to say thank you for speaking with me today. Why don’t we start off with some biographical information? What were your parents’ names, and where were you from?</u>
 
 
     <u who="#RAMSEY-JEVNE">My father was Charles Ralph Ramsey, and my mother was Waneta Mae [Vieritz] Ramsey, and I was born in Little Rock, Arkansas, in 1958.</u>
