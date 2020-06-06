@@ -19,10 +19,10 @@ First Avenue,,"New York, NY",40.763407,-73.959243
 Peter Cooper Village,1 Stuyvesant Oval,"New York, NY",40.731205,-73.978925
 United States,,,39.631537,-100.77659
 United States,,,39.631537,-100.77659
-Soviet Union,,,,
+Soviet Union,,,60.283206,87.749437
 Peter Cooper Village,1 Stuyvesant Oval,"New York, NY",40.731205,-73.978925
 New York City,,"New York, NY",40.71243,-73.979617
-Soviet Union,,,,
+Soviet Union,,,60.283206,87.749437
 Vietnam,,,14.572049,108.128215
 Vietnam,,,14.572049,108.128215
 Vietnam,,,14.572049,108.128215
@@ -154,8 +154,8 @@ Parkhurst,14 N Main St,"Hanover, NH",43.70367,-72.28956
 Parkhurst,14 N Main St,"Hanover, NH",43.70367,-72.28956
 Parkhurst,14 N Main St,"Hanover, NH",43.70367,-72.28956
 Boston,,"Boston, MA",42.359814,-71.058755
-Kiewit [Computation Center],,"Hanover, NH",,
-Kiewit,,"Hanover, NH",,
+Kiewit [Computation Center],,"Hanover, NH",43.705974,-72.289135
+Kiewit,,"Hanover, NH",43.705974,-72.289135
 Parkhurst,14 N Main St,"Hanover, NH",43.70367,-72.28956
 Parkhurst,14 N Main St,"Hanover, NH",43.70367,-72.28956
 Hollywood,,"Los Angeles, CA",34.093031,-118.32974
@@ -174,7 +174,7 @@ Parkhurst,14 N Main St,"Hanover, NH",43.70367,-72.28956
 Concord,,"Concord, NH",43.206626,-71.533489
 New York,,"New York, NY",40.71243,-73.979617
 New Hampshire,,,43.377371,-71.61681
-2nd District in New Hampshire,,,,
+2nd District in New Hampshire,,,43.874035,-71.892006
 Vietnam,,,14.572049,108.128215
 Brooklyn,,,40.678026,73.944619
 Bushwick,,"New York, NY",40.695748,-73.916872
