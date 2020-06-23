@@ -32,7 +32,7 @@ Cuba,,,21.66362,-78.909894
 Upper West Side,,"New York, NY",40.786703,-73.97635
 New York City,,"New York, NY",40.71243,-73.979617
 United States,,,39.631537,-100.77659
-Brooklyn,,,40.678026,73.944619
+Brooklyn,,,40.678026,-73.944619
 Manhattan,,,40.782165,-73.96955
 Sag Harbor,,"Sag Harbor, NY",41.000321,-72.292663
 Long Island,,,40.791974,-73.136261
@@ -71,8 +71,8 @@ America,,,39.631537,-100.77659
 Long Island,,,40.791974,-73.136261
 Greenwich Village,,"New York, NY",40.733518,-74.002506
 Greenwich Village,,"New York, NY",40.733518,-74.002506
-Sixth Avenue,,"New York, NY",40.742917,73.992792
-Sixth Avenue,,"New York, NY",40.742917,73.992792
+Sixth Avenue,,"New York, NY",40.742917,-73.992792
+Sixth Avenue,,"New York, NY",40.742917,-73.992792
 New Hampshire,,,43.377371,-71.61681
 Hanover,,,43.706744,-72.286914
 Sag Harbor,,"Sag Harbor, NY",41.000321,-72.292663
@@ -176,7 +176,7 @@ New York,,"New York, NY",40.71243,-73.979617
 New Hampshire,,,43.377371,-71.61681
 2nd District in New Hampshire,,,43.874035,-71.892006
 Vietnam,,,14.572049,108.128215
-Brooklyn,,,40.678026,73.944619
+Brooklyn,,,40.678026,-73.944619
 Bushwick,,"New York, NY",40.695748,-73.916872
 "Oakland, California",,"Oakland, CA",37.804092,-122.270718
 New York,,"New York, NY",40.71243,-73.979617
