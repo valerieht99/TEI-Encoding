@@ -32,7 +32,7 @@ Cuba,,,21.66362,-78.909894,Hodes
 Upper West Side,,"New York, NY",40.786703,-73.97635,Hodes
 New York City,,"New York, NY",40.71243,-73.979617,Hodes
 United States,,,39.631537,-100.77659,Hodes
-Brooklyn,,,40.678026,73.944619,Hodes
+Brooklyn,,,40.678026,-73.944619,Hodes
 Manhattan,,,40.782165,-73.96955,Hodes
 Sag Harbor,,"Sag Harbor, NY",41.000321,-72.292663,Hodes
 Long Island,,,40.791974,-73.136261,Hodes
@@ -71,8 +71,8 @@ America,,,39.631537,-100.77659,Hodes
 Long Island,,,40.791974,-73.136261,Hodes
 Greenwich Village,,"New York, NY",40.733518,-74.002506,Hodes
 Greenwich Village,,"New York, NY",40.733518,-74.002506,Hodes
-Sixth Avenue,,"New York, NY",40.742917,73.992792,Hodes
-Sixth Avenue,,"New York, NY",40.742917,73.992792,Hodes
+Sixth Avenue,,"New York, NY",40.742917,-73.992792,Hodes
+Sixth Avenue,,"New York, NY",40.742917,-73.992792,Hodes
 New Hampshire,,,43.377371,-71.61681,Hodes
 Hanover,,,43.706744,-72.286914,Hodes
 Sag Harbor,,"Sag Harbor, NY",41.000321,-72.292663,Hodes
@@ -176,7 +176,7 @@ New York,,"New York, NY",40.71243,-73.979617,Hodes
 New Hampshire,,,43.377371,-71.61681,Hodes
 2nd District in New Hampshire,,,43.874035,-71.892006,Hodes
 Vietnam,,,14.572049,108.128215,Hodes
-Brooklyn,,,40.678026,73.944619,Hodes
+Brooklyn,,,40.678026,-73.944619,Hodes
 Bushwick,,"New York, NY",40.695748,-73.916872,Hodes
 "Oakland, California",,"Oakland, CA",37.804092,-122.270718,Hodes
 New York,,"New York, NY",40.71243,-73.979617,Hodes
