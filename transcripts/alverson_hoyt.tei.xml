@@ -59,7 +59,7 @@
   </teiHeader>
   <text>
     <body>
-      <u who="SOLOMON">Hi. This is <persName>Hannah Solomon</persName> in <persName>Rauner</persName> [Special Collections] Library on <orgName>Dartmouth College</orgName>’s campus. <date>Today</date> is <date>August 20th, 2015</date>, and I am here with Professor <persName>Hoyt Alverson</persName>. 
+      <u who="SOLOMON">Hi. This is <persName>Hannah Solomon</persName> in <placeName>Rauner [Special Collections] Library</placeName> on <orgName>Dartmouth College’s</orgName> campus. Today is <date when="2015-08-20">August 20th, 2015</date>, and I am here with Professor <persName>Hoyt Alverson</persName>. 
 
 Thank you so much for being here.</u>
       <u who="ALVERSON">I’m pleased to be here and hope I can be helpful.</u>
@@ -68,11 +68,11 @@ Thank you so much for being here.</u>
       <u who="SOLOMON">Wonderful. Okay. And if you at any point want to take a break or anything, just let me know. We can pause the recording.
 
 So I’d like to start with some biographical information. Where are you from?</u>
-      <u who="ALVERSON"><placeName>Washington, D.C.</placeName> I was born and raised in a kind of scruffy, working-class—what then would have been maybe called a suburb but was in fact a part of the city of <placeName>Washington, D.C.</placeName>, called <placeName>Anacostia</placeName>, which has been in the news recently as having a lot of mean streets. It didn’t have such mean streets then, but it was certainly a working-class part of the city of <placeName>the District of Columbia</placeName>, across <placeName>the Anacostia River</placeName> from <placeName>the [Washington] Navy Yard</placeName>.</u>
+      <u who="ALVERSON"><placeName>Washington, D.C.</placeName> I was born and raised in a kind of scruffy, working-class—what then would have been maybe called a suburb but was in fact a part of the city of <placeName>Washington, D.C.</placeName>, called <placeName>Anacostia</placeName>, which has been in the news recently as having a lot of mean streets. It didn’t have such mean streets then, but it was certainly a working-class part of the city of the <placeName>District of Columbia</placeName>, across <placeName>the Anacostia River</placeName> from the <placeName>[Washington] Navy Yard</placeName>.</u>
       <u who="SOLOMON">Got you. And can you tell me what your parents’ names were?</u>
-      <u who="ALVERSON">My father’s name was, is <persName>Elwyn</persName>, E-l-w-y-n Alverson, and my mother’s maiden name was <persName>Myrtle Hall</persName>, <persName>Myrtle</persName> like in the creepy ground cover and flower.</u>
+      <u who="ALVERSON">My father’s name was, is <persName>Elwyn, E-l-w-y-n Alverson</persName>, and my mother’s maiden name was <persName>Myrtle Hall</persName>, <persName>Myrtle</persName> like in the creepy ground cover and flower.</u>
       <u who="SOLOMON">Oh, I think it’s a beautiful name. [Chuckles]</u>
-      <u who="ALVERSON">One is from what we would consider the North, and the other is from the South, so I had exposure to two different family histories regarding at least the recent history of <placeName>the United States</placeName>, one very much Southern, Southern Baptist, and my father came from what would have been considered the North. His grandfather fought in <name type="event">the Civil War</name>.</u>
+      <u who="ALVERSON">One is from what we would consider the North, and the other is from the South, so I had exposure to two different family histories regarding at least the recent history of the <placeName>United States</placeName>, one very much Southern, Southern Baptist, and my father came from what would have been considered the North. His grandfather fought in <name type="event">the Civil War</name>.</u>
       <u who="SOLOMON">Oh, wow!</u>
       <u who="ALVERSON">And many other relatives, and the same on my mother’s side for the <orgName>Confederate states</orgName>.</u>
       <u who="SOLOMON">So was that sort of a family history that you heard a lot?</u>
@@ -82,7 +82,7 @@ So I’d like to start with some biographical information. Where are you from?</
       <u who="SOLOMON">Okay. </u>
       <u who="ALVERSON">—and south-central <placeName>Virginia</placeName> near the <placeName>North Carolina</placeName> border,—</u>
       <u who="SOLOMON">Got you.</u>
-      <u who="ALVERSON">—so that becomes—it’s the <placeName>Piedmont</placeName>.</u>
+      <u who="ALVERSON">—so that becomes—it’s the Piedmont.</u>
       <u who="SOLOMON">Yes.</u>
       <u who="ALVERSON">They do share that in common.</u>
       <u who="SOLOMON">Got you, got you.
@@ -90,20 +90,20 @@ So I’d like to start with some biographical information. Where are you from?</
 Can you tell me a little bit what it was like growing up in the suburb outside of <placeName>D.C.</placeName>?</u>
       <u who="ALVERSON">Yeah. But this suburb was actually in <placeName>D.C.</placeName></u>
       <u who="SOLOMON">In <placeName>D.C.</placeName></u>
-      <u who="ALVERSON">One of the things which comes to mind in light of your questions and project is that when I was in the seventh grade—that would be <date when="1954">1954</date>—the public schools in <placeName>Washington, D.C.</placeName> were integrated immediately, and at that time <placeName>the District of Columbia</placeName> was pretty much a African-American city in regard to population; that is, about half African-American, half Euro-Americans. And the schools were integrated, so beginning in the seventh grade, in middle school, I went to integrated public schools. And that was certainly something which I was aware of in light of the fact that many of the people who lived in this working-class, inner- city suburb left because of the lack of understanding of and/or tolerance of African-Americans in classrooms, so there was tremendous white flight, which our family didn’t participate in. And so that was one feature that was certainly notable.
+      <u who="ALVERSON">One of the things which comes to mind in light of your questions and project is that when I was in the seventh grade—that would be <date when="1954">1954</date>—the public schools in <placeName>Washington, D.C.</placeName> were integrated immediately, and at that time the <placeName>District of Columbia</placeName> was pretty much a African-American city in regard to population; that is, about half African-American, half Euro-Americans. And the schools were integrated, so beginning in the seventh grade, in middle school, I went to integrated public schools. And that was certainly something which I was aware of in light of the fact that many of the people who lived in this working-class, inner- city suburb left because of the lack of understanding of and/or tolerance of African-Americans in classrooms, so there was tremendous white flight, which our family didn’t participate in. And so that was one feature that was certainly notable.
 
 And often, visiting the farm in the South, my Southern relatives would say—“Hoyat. I’m gonna tawk lahk”—I actually used to talk this way, because of my mama, mama and them. Anyway, they’d say, “<persName>Hoyat</persName>. What is the situation up they-ah?” And that was always a code word for living cheek by jowl, and a little later in the neighborhood, which became African-American and white, mixed, for a good spell, but also in the schools, so they were very—<placeName>Virginia</placeName> and <placeName>Maryland</placeName> maintained segregation for some years after that. And that’s where a lot of the neighbors went, was <placeName>Maryland</placeName> and—<placeName>Prince George’s County</placeName> in <placeName>Maryland</placeName> and <placeName>Arlington County</placeName> in <placeName>Virginia</placeName>.</u>
       <u who="SOLOMON">Got you. Do you have sort of a memory of when you personally became of the civil rights movement or of the actual social shift that was going on?</u>
       <u who="ALVERSON">[Sighs.] I certainly became aware of it pretty much immediately because it was a very hot topic in the news. My parents talked about it, my father more than my mother. So it was definitely a topic around the table. And also—I can’t remember the exact year—we moved our residence, still within the southeast <placeName>Anacostia</placeName> area, from one house to another, because the school that I would have gone to, where I was born—from the house I was born in—became somewhat of a—it was a real rough patch educationally. And I went to <orgName>Anacostia High School</orgName>, which was still—that wasn’t <orgName>[Phillips] Exeter [Academy]</orgName>—</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="ALVERSON">—or <orgName>St. Paul</orgName>’s [School], but it was considered a cut above <orgName>Eastern [Senior] High School</orgName>, where I would have gone, so the moving of the house engenders a lot of conversation, and the topic of civil rights was very much current in the papers. Back then, my parents, as you would guess, read papers, even though they were not highly educated, but they did subscribe to the two <placeName>D.C.</placeName> papers. And there was lots of buzz among my peers amount school integration. So that would have been in middle school,—</u>
+      <u who="ALVERSON">—or <orgName>St. Paul’s [School]</orgName>, but it was considered a cut above <orgName>Eastern [Senior] High School</orgName>, where I would have gone, so the moving of the house engenders a lot of conversation, and the topic of civil rights was very much current in the papers. Back then, my parents, as you would guess, read papers, even though they were not highly educated, but they did subscribe to the two <placeName>D.C.</placeName> papers. And there was lots of buzz among my peers amount school integration. So that would have been in middle school,—</u>
       <u who="SOLOMON">Got you.</u>
       <u who="ALVERSON">—and that continued.</u>
       <u who="SOLOMON">And that continued. So, then, can you describe a little bit of your high school experience for me?</u>
       <u who="ALVERSON"><orgName>Anacostia High School</orgName> was a mixed school. I would guess that it had about 40 or 50 percent white and 40, 50 percent African-American and a smattering of—there wasn’t a large Latino population at that time, of other so-called races. It was a good school, a decent school. There was not a lot of consciousness of colleges and so forth, but the expectation there was that they used to have a track system, an honors track, a college preparatory track, a commercial track and a shop track. And that led to a lot of segregation within the school—</u>
       <u who="SOLOMON">Right.</u>
       <u who="ALVERSON">—because the honors and college track were more light-skinned, and the commercial and shop and so forth were more people of color. But still we had lots of classes in common. It was just that certain courses would be more heavily subscribed by people of one background or another. And I was in the college preparatory track.</u>
-      <u who="SOLOMON"><persName>Mm-hm</persName>.</u>
+      <u who="SOLOMON">Mm-hm.</u>
       <u who="ALVERSON">And I was not an honors student. The home environment was not one where there was a lot of high pressure to do—my parents expected I would do something besides dig ditches,—</u>
       <u who="SOLOMON">[Chuckles.] </u>
       <u who="ALVERSON">—but it wasn’t very prescriptive, and the demands were, you know, “You go to school and do your work there, and then you come home and we feed you and you’re our dutiful son.” There was a lot more law and order back then. There was a lot less concern about self-esteem and more—</u>
@@ -118,13 +118,13 @@ And often, visiting the farm in the South, my Southern relatives would say—“
       <u who="SOLOMON">What kind of things were you involved in in school?</u>
       <u who="ALVERSON">I did play the flute and picked it up since I retired, quite seriously, so my father was a flutist in the <orgName>[U.S.] Marine Band</orgName>.</u>
       <u who="SOLOMON">Oh, wow.</u>
-      <u who="ALVERSON">He was a <orgName>[U.S.] Marine</orgName> in <name type="event">World War I</name>, so he was older than many of my peers’ parents. And he played the flute pretty good. He was in the regimental band, was stationed in <placeName>Cuba</placeName> to guard the sugar cane from the Germans. And, of course, back then <placeName>Cuba</placeName> had recently been taken from <placeName>Spain</placeName>. 
+      <u who="ALVERSON">He was a <orgName>[U.S.] Marine</orgName> in <name type="event">World War I</name>, so he was older than many of my peers’ parents. And he played the flute pretty good. He was in the regimental band, was stationed in <placeName>Cuba</placeName> to guard the sugar cane from the <orgName>Germans</orgName>. And, of course, back then <placeName>Cuba</placeName> had recently been taken from <placeName>Spain</placeName>. 
 
 
 
 My mother—my family was very religious in the sense of a kind of fundamentalist—</u>
       <u who="SOLOMON">Okay. </u>
-      <u who="ALVERSON">—background, and I went along with that until probably my high school years, when I began to connect dots and not come up with the same narrative that my parents did about the importance—I was a <orgName>Boy Scout</orgName>. I was an Eagle Scout. So you can see there was this kind of orthodoxy there.</u>
+      <u who="ALVERSON">—background, and I went along with that until probably my high school years, when I began to connect dots and not come up with the same narrative that my parents did about the importance—I was a <orgName>Boy Scout</orgName>. I was an <orgName>Eagle Scout</orgName>. So you can see there was this kind of orthodoxy there.</u>
       <u who="SOLOMON">Yes.</u>
       <u who="ALVERSON">But I began to chafe and rebel against that in my own mind a lot earlier than when I started to take some action [chuckles].</u>
       <u who="SOLOMON">[Chuckles.]</u>
@@ -190,7 +190,7 @@ I don’t want to get into anecdotes, but—</u>
       <u who="SOLOMON">Oh, please.</u>
       <u who="ALVERSON">—sometimes an anecdote can be illustrative.</u>
       <u who="SOLOMON">We are here for anecdotes.</u>
-      <u who="ALVERSON">I remember in a course that I took—I’m pretty sure it was in my first year, in I believe sociology, there was this fellow who worked for <orgName>the National Training School for Boys</orgName>, which was an institution dealing with juvenile delinquency. And I thought, What an interesting way to think about crime, deviance and so forth. Instead of just sort of saying, “Well, lock up the criminals,” there was this attempt to explain what I had grown up seeing. I didn’t participate in any gang activities, but crime was all over the place, and here were people offering accounts of why people became criminals. And I thought, Well, that’s a neat kind of topic. 
+      <u who="ALVERSON">I remember in a course that I took—I’m pretty sure it was in my first year, in I believe sociology, there was this fellow who worked for the <orgName>National Training School for Boys</orgName>, which was an institution dealing with juvenile delinquency. And I thought, What an interesting way to think about crime, deviance and so forth. Instead of just sort of saying, “Well, lock up the criminals,” there was this attempt to explain what I had grown up seeing. I didn’t participate in any gang activities, but crime was all over the place, and here were people offering accounts of why people became criminals. And I thought, Well, that’s a neat kind of topic. 
 
 And so this one guy, who was sort of a dapper fellow. He, I remember, wore suits and diamond cuff- —I thought he looked like a mobster,—</u>
       <u who="SOLOMON">[Chuckles.]</u>
@@ -204,7 +204,7 @@ I also had a job. I worked 20 hours a week throughout college. So it was very—
       <u who="SOLOMON">Wow.</u>
       <u who="ALVERSON">—keeps you off the streets.</u>
       <u who="SOLOMON">Yes, it does. [Chuckles.]</u>
-      <u who="ALVERSON">And I worked at <placeName>the Library of Congress</placeName>.</u>
+      <u who="ALVERSON">And I worked at the <placeName>Library of Congress</placeName>.</u>
       <u who="SOLOMON">Oh, wow!</u>
       <u who="ALVERSON">That paid for a big part. And it was in the end, at the end of the first year that I left home, because of the ferment in my mind and conflict between me and my parents over things like civil rights, which was very much cracking up. Had already. But I was exposed to it in a very different way at college—this would be <date when="1960">1960</date>, <date when="1961">’61</date>—than I was in—just in the neighborhood and in high school.</u>
       <u who="SOLOMON">Right. Can you really quickly—what year did you enter college?</u>
@@ -238,7 +238,7 @@ I also had a job. I worked 20 hours a week throughout college. So it was very—
       <u who="SOLOMON">[Chuckles.]</u>
       <u who="ALVERSON">“You can go to”—because I was very much interested in my subject matter of study, anthropology and linguistics, by that time, and she said, “You should go to graduate school.” “Graduate school? That sounds like the royal road to unemployment.”</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="ALVERSON">And I didn’t—although I suppose I could easily have done okay as—in a profession, it seemed like the life of the mind back then. The post-Sputnik money was flowing like crazy. What was it, ’57, that the Russians sent up the first rat or dog?</u>
+      <u who="ALVERSON">And I didn’t—although I suppose I could easily have done okay as—in a profession, it seemed like the life of the mind back then. The post-Sputnik money was flowing like crazy. What was it, <date when="1957">’57</date>, that the Russians sent up the first rat or dog?</u>
       <u who="SOLOMON">[Unintelligible.] [Chuckles.]</u>
       <u who="ALVERSON">The money flowed into colleges and graduate schools: national defense loans and grants. And so it worked out that I got a—I had actually a scholarship to <orgName>Yale</orgName>, and then got an <orgName>NSF [National Science Foundation]</orgName> or an <orgName>NIH [National Institutes of Health]</orgName> grant to continue studying at <placeName>Yale</placeName> for four years, and I finished in four.</u>
       <u who="SOLOMON">Got you.
@@ -282,10 +282,10 @@ And I also taught at a small state school in <placeName>New Haven</placeName>. Y
       <u who="SOLOMON">Right. Right. So you had options.</u>
       <u who="ALVERSON">Yes, very much so.</u>
       <u who="SOLOMON">But <orgName>Yale</orgName> was your best financial choice.</u>
-      <u who="ALVERSON">It was the best financial choice, and a lot of—two of my favorite teachers at GW were from <orgName>Yale</orgName>, so they talked it up and wrote letters and—</u>
+      <u who="ALVERSON">It was the best financial choice, and a lot of—two of my favorite teachers at <orgName>GW</orgName> were from <orgName>Yale</orgName>, so they talked it up and wrote letters and—</u>
       <u who="SOLOMON">Got you. And that helps. [Chuckles.]</u>
       <u who="ALVERSON">That helps. Yes, I’m sure.</u>
-      <u who="SOLOMON">Can you talk about <placeName>Yale</placeName>’s campus a little bit, the general social situation?</u>
+      <u who="SOLOMON">Can you talk about <placeName>Yale’s</placeName> campus a little bit, the general social situation?</u>
       <u who="ALVERSON">Well, as in undergraduate school, I was very busy in my own little world, so I wasn’t paying too much attention. <placeName>New Haven</placeName> was pretty much what it has—it was in one of the down phases of a pretty rough decline because of the moving out of manufacturing jobs, so <placeName>New Haven</placeName> was a very poor, we would call it a crime-ridden city. And <placeName>Yale</placeName> was this island of opulence. And the interactions between the campus, the university and the town were quite factious—or fractious. 
 
 So it didn’t affect me so much because I really did throw myself into my studies. In my third year there, I was preparing to go away to do field work in Africa. So I wasn’t as cognizant of the campus life. Oh, I loved it. I went to all the colloquia and seminars and, you know, the presentation of—and you know this kind of sort of neo-Gothic architecture: stones and lots of mahogany. I think <orgName>Yale</orgName> was also in a bit of a financial hard patch, but it still looked pretty spiffy—</u>
@@ -353,7 +353,7 @@ So just to go over some context, you got to <placeName>Yale</placeName> in <date
       <u who="ALVERSON">Mm-hm.</u>
       <u who="SOLOMON">And then 1968—<date when="1968">1968</date> you got here, in <placeName>Dartmouth</placeName>.</u>
       <u who="ALVERSON">In <date when="1968-07">July</date>, right.</u>
-      <u who="SOLOMON">July.</u>
+      <u who="SOLOMON"><date when="1968-07">July</date>.</u>
       <u who="ALVERSON"><date when="1968-07">July</date> or <date when="1968-08">August of ’68</date>.</u>
       <u who="SOLOMON">So— Going over somethings…</u>
       <u who="ALVERSON">Are we sort of on track—</u>
@@ -363,7 +363,7 @@ So just to go over some context, you got to <placeName>Yale</placeName> in <date
       <u who="ALVERSON">—hoping might be there?</u>
       <u who="SOLOMON">Yes, yes. So <date when="1968">’68</date> was a big year. [Chuckles.]</u>
       <u who="ALVERSON">Yes, it was. It was a very big year.</u>
-      <u who="SOLOMON">That was the start of <name type="event">the Tet Offensive</name>, I believe, and—</u>
+      <u who="SOLOMON">That was the start of the <name type="event">Tet Offensive</name>, I believe, and—</u>
       <u who="ALVERSON">Yes. There was a lot—the war was going badly—</u>
       <u who="SOLOMON">Yes.</u>
       <u who="ALVERSON">—by <date when="1968">’68</date>, and I was newly assistant professor here, and my students were—I was very much—very much carrying on from <placeName>Yale</placeName>, where I—when you’re writing your dissertation, you have more time to make trouble.</u>
@@ -496,7 +496,7 @@ But from the point of view of just not locking your doors and the kids run out�
       <u who="SOLOMON">Right. So—yeah. So Parkhurst, I believe, was spring of <date when="1969">1969</date>?</u>
       <u who="ALVERSON">Yeah.</u>
       <u who="SOLOMON">So that was your first spring on campus?</u>
-      <u who="ALVERSON">It was the first spring on campus. But there had been a lot of teach-ins. I don’t believe <orgName>the Collis Center [for Student Involvement]</orgName> yet existed, but there were student-organized courses that addressed civil rights, that addressed the war, and I think that in <date when="1968">’68</date>, <date when="1969">’69</date> and <date when="1970">’70</date> the war became the biggest piece of the student activism because of the—well, there wasn’t a big city, for instance, with a civil rights movement in it, but there were—<orgName>ROTC [Reserve Officers’ Training Corps]</orgName> was on campus. The ideology of the times among the antiwar movement was that universities were complicit—</u>
+      <u who="ALVERSON">It was the first spring on campus. But there had been a lot of teach-ins. I don’t believe the <orgName>Collis Center [for Student Involvement]</orgName> yet existed, but there were student-organized courses that addressed civil rights, that addressed the war, and I think that in <date when="1968">’68</date>, <date when="1969">’69</date> and <date when="1970">’70</date> the war became the biggest piece of the student activism because of the—well, there wasn’t a big city, for instance, with a civil rights movement in it, but there were—<orgName>ROTC [Reserve Officers’ Training Corps]</orgName> was on campus. The ideology of the times among the antiwar movement was that universities were complicit—</u>
       <u who="SOLOMON">Right.</u>
       <u who="ALVERSON">—in providing intellectual and physical resources for a horrific and stupid war. And that certainly got a lot of attention. There were lots of faculty meetings about keeping <orgName>ROTC</orgName> or not.</u>
       <u who="SOLOMON">Mm-hm.</u>
@@ -540,13 +540,13 @@ But from the point of view of just not locking your doors and the kids run out�
       <u who="SOLOMON">Yes.</u>
       <u who="ALVERSON">And campuses were, because of the draft—let’s not get too idealistic—</u>
       <u who="SOLOMON">Right.</u>
-      <u who="ALVERSON">I know from <name type="event">the Iraq War</name> there was not a lot of student interest in the <placeName>Iraq</placeName>—the stupidity of that,</u>
+      <u who="ALVERSON">I know from the <name type="event">Iraq War</name> there was not a lot of student interest in the <placeName>Iraq</placeName>—the stupidity of that,</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="ALVERSON">—which I was equally horrified at, the idea of—the invasion of <placeName>Iraq</placeName> was one of the dumbest—you didn’t have the scale of <name type="event">the Vietnam War</name>, but the ignorance—</u>
+      <u who="ALVERSON">—which I was equally horrified at, the idea of—the invasion of <placeName>Iraq</placeName> was one of the dumbest—you didn’t have the scale of the <name type="event">Vietnam War</name>, but the ignorance—</u>
       <u who="SOLOMON">Right.</u>
       <u who="ALVERSON">—was every bit as great, and the enthusiasms were equally hubristic and misguiding, at least, if not criminal.</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="ALVERSON">I just think that it’s—well—but at that time, the campus was—you know, there were a few—I stood on <placeName>the corner of Wheelock and Main [Streets]</placeName>, with signs, with forty or fifty other people. Well, it would have been four or five hundred in <name type="event">the Vietnam War</name>, and the difference, I think, was the lack of a draft.</u>
+      <u who="ALVERSON">I just think that it’s—well—but at that time, the campus was—you know, there were a few—I stood on <placeName>the corner of Wheelock and Main [Streets]</placeName>, with signs, with forty or fifty other people. Well, it would have been four or five hundred in the <name type="event">Vietnam War</name>, and the difference, I think, was the lack of a draft.</u>
       <u who="SOLOMON">Mm-hm.</u>
       <u who="ALVERSON">So if you want to fight wars and not stir up the pot too much, don’t have a volunteer army, and the powers that be saw that pretty clearly.</u>
       <u who="SOLOMON">Did you see sort of a change in campus tension when the draft lottery was reinstated? I believe that was <date when="1969-12">December of 1969</date>.</u>
@@ -596,7 +596,7 @@ Let’s see. So <name type="event">the Kent State [University] shooting</name> a
       <u who="SOLOMON">Right.</u>
       <u who="ALVERSON">Which was not really direct, but it was certainly indirectly fueled by the general sense of ferment and change that <name type="event">the Vietnam War</name> created, so in some ways, the move for coeducation benefited from the enthusiasms and the mobilization processes that were afoot. But that was where <persName>Kemeny</persName> and I parted ways. </u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="ALVERSON">There was a long history, and I think a bad history, of how coeducation came to <placeName>Dartmouth</placeName>. It’s portrayed officially as a top down set of decisions that were made by people—that’s bullshit, total bullshit.</u>
+      <u who="ALVERSON">There was a long history, and I think a bad history, of how coeducation came to <orgName>Dartmouth</orgName>. It’s portrayed officially as a top down set of decisions that were made by people—that’s bullshit, total bullshit.</u>
       <u who="SOLOMON">Oh, please talk about it a little more. I would love to—</u>
       <u who="ALVERSON">If that’s rain, I’m going to have to—yeah. I’m on a bicycle, but I’ll call my wife.
 
@@ -697,7 +697,7 @@ So the world of industrial factory, formal employment and the world of semi-subs
 Mm-hm.</u>
       <u who="ALVERSON">—where you have these entrepôt [French, as defined by Merriam-Webster: “an intermediary center of trade and transshipment” source: http://www.merriam-webster.com/dictionary/entrep%C3%B4t ] of formal employment, wage labor institutions of control that are part of western society and their insertion into rural areas, which were being changed by that process, often by the migrants, themselves, who suddenly are bringing money, who have ideas about individuality and their persons, personhood because of being both involved intimately in wage labor and being involved as often kinfolk in a smaller scale, rural community,—</u>
       <u who="SOLOMON">Right.</u>
-      <u who="ALVERSON">—which is nothing like what it was 150 years earlier. So that was the topic. And I wrote a book called Mind in the Heart of Darkness[: Value and Self-Identity among the Tswana of Southern Africa], which played a bit on the title of [Joseph] <persName>Conrad’s</persName> book [Heart of Darkness]. Played quite a lot on it.</u>
+      <u who="ALVERSON">—which is nothing like what it was 150 years earlier. So that was the topic. And I wrote a book called Mind in the Heart of Darkness[: Value and Self-Identity among the Tswana of Southern Africa], which played a bit on the title of <persName>[Joseph] Conrad’s</persName> book [Heart of Darkness]. Played quite a lot on it.</u>
       <u who="SOLOMON">[Chuckles.]</u>
       <u who="ALVERSON">Which was to show that the meaning of the title—the irony there is that the heart of darkness is not the <placeName>Congo</placeName> and the African world; it was the world of the Colonial—</u>
       <u who="SOLOMON">Right.</u>
@@ -813,7 +813,7 @@ Mm-hm.</u>
       <u who="SOLOMON">So this was the university in?</u>
       <u who="ALVERSON"><placeName>Johannesburg</placeName>.</u>
       <u who="SOLOMON"><placeName>Johannesburg</placeName>.</u>
-      <u who="ALVERSON">It’s one of the two big, three big universities: <orgName>Witwatersrand, [University of] Cape Town</orgName> and  <orgName>Durban (University of Natal)</orgName> [now part of the &amp;lt;a href="https://en.wikipedia.org/wiki/University_of_KwaZulu-Natal"&amp;gt;University of <orgName>KwaZulu-Natal&amp;lt;/a&amp;gt</orgName>; in Durban].</u>
+      <u who="ALVERSON">It’s one of the two big, three big universities: <orgName>Witwatersrand, [University of] Cape Town</orgName> and  <orgName>Durban (University of Natal)</orgName> [now part of the University of KwaZulu-Natal&amp;lt;/a&amp;gt; in Durban].</u>
       <u who="SOLOMON">And this was the second time that you were there. This was the mid ’70s?</u>
       <u who="ALVERSON">Both.</u>
       <u who="SOLOMON">Both times.</u>
@@ -897,7 +897,7 @@ Anyway, he makes the point, which I think is a good one, that the pictures to hi
       <u who="SOLOMON">Mm-hm. So can you explain a little bit, just for context, about the back-to-the-land movement?</u>
       <u who="ALVERSON">Wow. Yes. Asking me to explain it is over- —overrating what I can do.</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="ALVERSON">There was a couple named <persName>Nearing</persName>, N-e-a-r-i-n-g, who were very active as—they weren’t communists, but they were certainly part of the questioning of the industrialization of <placeName>North America</placeName> in the ’30s and ’40s, and decided that too much of the real fundamentals of life were being lost by the hurly-burly and hubbub of the city and the work, and that they felt that you needed—it was a kind of <persName>[John] Dewey</persName>-esque idea: We’ve got to live that way to restore these values that are being lost by the anonymization, the atomization of people.
+      <u who="ALVERSON">There was a couple named <persName>Nearing</persName>, N-e-a-r-i-n-g, who were very active as—they weren’t communists, but they were certainly part of the questioning of the industrialization of North America in the ’30s and ’40s, and decided that too much of the real fundamentals of life were being lost by the hurly-burly and hubbub of the city and the work, and that they felt that you needed—it was a kind of <persName>[John] Dewey</persName>-esque idea: We’ve got to live that way to restore these values that are being lost by the anonymization, the atomization of people.
 
 And so they did try to build two settlements, one in <placeName>Vermont</placeName> and then later in <placeName>Maine</placeName>, I believe, which served to some extent as a kind of sleeper, the way <persName>Simone de Beauvoir’s</persName> [The] Second Sex I think served as a kind of sleeping document for women, who rediscovered it, you know, through <persName>Betty Friedan</persName> and—was it <persName>Crowley</persName>? I’m blocking on her name. The other big feminist writer of the ’70s. <persName>Gloria Steinem</persName>.</u>
       <u who="SOLOMON">Yes.</u>
