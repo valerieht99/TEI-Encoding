@@ -59,7 +59,11 @@
   </teiHeader>
   <text>
     <body>
+
       <u who="SOLOMON">Hi. This is <persName>Hannah Solomon</persName> in <placeName>Rauner [Special Collections] Library</placeName> on <orgName>Dartmouth College’s</orgName> campus. Today is <date when="2015-08-20">August 20th, 2015</date>, and I am here with <persName>Professor Hoyt Alverson</persName>. 
+
+      <u who="SOLOMON">Hi. This is <persName>Hannah Solomon</persName> in <placeName>Rauner [Special Collections] Library</placeName> on <orgName>Dartmouth College’s</orgName> campus. Today is <date when="2015-08-20">August 20th, 2015</date>, and I am here with <persName>Professor Hoyt Alverson</persName>. 
+
 
 Thank you so much for being here.</u>
       <u who="ALVERSON">I’m pleased to be here and hope I can be helpful.</u>
@@ -68,11 +72,19 @@ Thank you so much for being here.</u>
       <u who="SOLOMON">Wonderful. Okay. And if you at any point want to take a break or anything, just let me know. We can pause the recording.
 
 So I’d like to start with some biographical information. Where are you from?</u>
+
       <u who="ALVERSON"><placeName>Washington, D.C.</placeName> I was born and raised in a kind of scruffy, working-class—what then would have been maybe called a suburb but was in fact a part of the city of <placeName>Washington, D.C.</placeName>, called <placeName>Anacostia</placeName>, which has been in the news recently as having a lot of mean streets. It didn’t have such mean streets then, but it was certainly a working-class part of the city of the <placeName>District of Columbia</placeName>, across the <placeName>Anacostia River</placeName> from the <placeName>[Washington] Navy Yard</placeName>.</u>
       <u who="SOLOMON">Got you. And can you tell me what your parents’ names were?</u>
       <u who="ALVERSON">My father’s name was, is <persName>Elwyn, E-l-w-y-n Alverson</persName>, and my mother’s maiden name was <persName>Myrtle Hall</persName>, <persName>Myrtle</persName> like in the creepy ground cover and flower.</u>
       <u who="SOLOMON">Oh, I think it’s a beautiful name. [Chuckles]</u>
       <u who="ALVERSON">One is from what we would consider the North, and the other is from the South, so I had exposure to two different family histories regarding at least the recent history of the <placeName>United States</placeName>, one very much Southern, Southern Baptist, and my father came from what would have been considered the North. His grandfather fought in the <name type="event">Civil War</name>.</u>
+
+      <u who="ALVERSON"><placeName>Washington, D.C.</placeName> I was born and raised in a kind of scruffy, working-class—what then would have been maybe called a suburb but was in fact a part of the city of <placeName>Washington, D.C.</placeName>, called <placeName>Anacostia</placeName>, which has been in the news recently as having a lot of mean streets. It didn’t have such mean streets then, but it was certainly a working-class part of the city of the <placeName>District of Columbia</placeName>, across the <placeName>Anacostia River</placeName> from the <placeName>[Washington] Navy Yard</placeName>.</u>
+      <u who="SOLOMON">Got you. And can you tell me what your parents’ names were?</u>
+      <u who="ALVERSON">My father’s name was, is <persName>Elwyn, E-l-w-y-n Alverson</persName>, and my mother’s maiden name was <persName>Myrtle Hall</persName>, <persName>Myrtle</persName> like in the creepy ground cover and flower.</u>
+      <u who="SOLOMON">Oh, I think it’s a beautiful name. [Chuckles]</u>
+      <u who="ALVERSON">One is from what we would consider the North, and the other is from the South, so I had exposure to two different family histories regarding at least the recent history of the <placeName>United States</placeName>, one very much Southern, Southern Baptist, and my father came from what would have been considered the North. His grandfather fought in the <name type="event">Civil War</name>.</u>
+
       <u who="SOLOMON">Oh, wow!</u>
       <u who="ALVERSON">And many other relatives, and the same on my mother’s side for the <orgName>Confederate states</orgName>.</u>
       <u who="SOLOMON">So was that sort of a family history that you heard a lot?</u>
@@ -82,7 +94,7 @@ So I’d like to start with some biographical information. Where are you from?</
       <u who="SOLOMON">Okay. </u>
       <u who="ALVERSON">—and south-central <placeName>Virginia</placeName> near the <placeName>North Carolina</placeName> border,—</u>
       <u who="SOLOMON">Got you.</u>
-      <u who="ALVERSON">—so that becomes—it’s the <placeName>Piedmont</placeName>.</u>
+      <u who="ALVERSON">—so that becomes—it’s the Piedmont.</u>
       <u who="SOLOMON">Yes.</u>
       <u who="ALVERSON">They do share that in common.</u>
       <u who="SOLOMON">Got you, got you.
@@ -118,7 +130,7 @@ And often, visiting the farm in the South, my Southern relatives would say—“
       <u who="SOLOMON">What kind of things were you involved in in school?</u>
       <u who="ALVERSON">I did play the flute and picked it up since I retired, quite seriously, so my father was a flutist in the <orgName>[U.S.] Marine Band</orgName>.</u>
       <u who="SOLOMON">Oh, wow.</u>
-      <u who="ALVERSON">He was a <orgName>[U.S.] Marine</orgName> in <name type="event">World War I</name>, so he was older than many of my peers’ parents. And he played the flute pretty good. He was in the regimental band, was stationed in <placeName>Cuba</placeName> to guard the sugar cane from the Germans. And, of course, back then <placeName>Cuba</placeName> had recently been taken from <placeName>Spain</placeName>. 
+      <u who="ALVERSON">He was a <orgName>[U.S.] Marine</orgName> in <name type="event">World War I</name>, so he was older than many of my peers’ parents. And he played the flute pretty good. He was in the regimental band, was stationed in <placeName>Cuba</placeName> to guard the sugar cane from the <orgName>Germans</orgName>. And, of course, back then <placeName>Cuba</placeName> had recently been taken from <placeName>Spain</placeName>. 
 
 
 
@@ -353,7 +365,11 @@ So just to go over some context, you got to <placeName>Yale</placeName> in <date
       <u who="ALVERSON">Mm-hm.</u>
       <u who="SOLOMON">And then 1968—<date when="1968">1968</date> you got here, in <placeName>Dartmouth</placeName>.</u>
       <u who="ALVERSON">In <date when="1968-07">July</date>, right.</u>
-      <u who="SOLOMON"><date when="1968-07">July.</date></u>
+
+      <u who="SOLOMON"><date when="1968-07">July</date>.</u>
+
+      <u who="SOLOMON"><date when="1968-07">July</date>.</u>
+
       <u who="ALVERSON"><date when="1968-07">July</date> or <date when="1968-08">August of ’68</date>.</u>
       <u who="SOLOMON">So— Going over somethings…</u>
       <u who="ALVERSON">Are we sort of on track—</u>
@@ -813,7 +829,11 @@ Mm-hm.</u>
       <u who="SOLOMON">So this was the university in?</u>
       <u who="ALVERSON"><placeName>Johannesburg</placeName>.</u>
       <u who="SOLOMON"><placeName>Johannesburg</placeName>.</u>
+
       <u who="ALVERSON">It’s one of the two big, three big universities: <orgName>Witwatersrand, [University of] Cape Town</orgName> and  <orgName>Durban (University of Natal)</orgName> [now part of the University of KwaZulu-Natal; in Durban].</u>
+
+      <u who="ALVERSON">It’s one of the two big, three big universities: <orgName>Witwatersrand, [University of] Cape Town</orgName> and  <orgName>Durban (University of Natal)</orgName> [now part of the University of KwaZulu-Natal; in Durban].</u>
+
       <u who="SOLOMON">And this was the second time that you were there. This was the mid ’70s?</u>
       <u who="ALVERSON">Both.</u>
       <u who="SOLOMON">Both times.</u>
