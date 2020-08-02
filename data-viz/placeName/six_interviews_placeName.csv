@@ -1,5 +1,5 @@
 ﻿name,address,city,latitude,longitude,source
-"Concord, New Hampshire",,"Concord, NH",43.209125,-71.535861,Hodes
+"Concord, New Hampshire",,"Concord, NH",43.206626,-71.533489,Hodes
 New York City,,"New York, NY",40.71243,-73.979617,Hodes
 New York City,,"New York, NY",40.71243,-73.979617,Hodes
 Peter Cooper Village,1 Stuyvesant Oval,"New York, NY",40.731205,-73.978925,Hodes
@@ -17,8 +17,8 @@ Upper West Side,,"New York, NY",40.786703,-73.97635,Hodes
 New York City,,"New York, NY",40.71243,-73.979617,Hodes
 First Avenue,,"New York, NY",40.763407,-73.959243,Hodes
 Peter Cooper Village,1 Stuyvesant Oval,"New York, NY",40.731205,-73.978925,Hodes
-United States,,,39.631537,-100.77659,Hodes
-United States,,,39.631537,-100.77659,Hodes
+United States,,,37.160477,-96.277202,Hodes
+United States,,,37.160477,-96.277202,Hodes
 Soviet Union,,,60.283206,87.749437,Hodes
 Peter Cooper Village,1 Stuyvesant Oval,"New York, NY",40.731205,-73.978925,Hodes
 New York City,,"New York, NY",40.71243,-73.979617,Hodes
@@ -31,7 +31,7 @@ China,,,34.462241,103.796769,Hodes
 Cuba,,,21.66362,-78.909894,Hodes
 Upper West Side,,"New York, NY",40.786703,-73.97635,Hodes
 New York City,,"New York, NY",40.71243,-73.979617,Hodes
-United States,,,39.631537,-100.77659,Hodes
+United States,,,37.160477,-96.277202,Hodes
 Brooklyn,,,40.678026,-73.944619,Hodes
 Manhattan,,,40.782165,-73.96955,Hodes
 Sag Harbor,,"Sag Harbor, NY",41.000321,-72.292663,Hodes
@@ -46,7 +46,7 @@ Egypt,,,26.595144,29.897728,Hodes
 Philippines,,,12.365825,123.44049,Hodes
 "St. Augustine, Florida",,"St. Augustine, FL",29.904158,-81.3123,Hodes
 New York,,"New York, NY",40.71243,-73.979617,Hodes
-Manhattan,,"New York, NY",40.782165,-73.96955,Hodes
+Manhattan,,,40.782165,-73.96955,Hodes
 Upper West Side,,"New York, NY",40.786703,-73.97635,Hodes
 Dartmouth,,"Hanover, NH",43.704425,-72.288704,Hodes
 Upper West Side,,"New York, NY",40.786703,-73.97635,Hodes
@@ -67,14 +67,14 @@ New York,,"New York, NY",40.71243,-73.979617,Hodes
 New York,,"New York, NY",40.71243,-73.979617,Hodes
 New York,,"New York, NY",40.71243,-73.979617,Hodes
 New York,,"New York, NY",40.71243,-73.979617,Hodes
-America,,,39.631537,-100.77659,Hodes
+America,,,37.160477,-96.277202,Hodes
 Long Island,,,40.791974,-73.136261,Hodes
 Greenwich Village,,"New York, NY",40.733518,-74.002506,Hodes
 Greenwich Village,,"New York, NY",40.733518,-74.002506,Hodes
 Sixth Avenue,,"New York, NY",40.742917,-73.992792,Hodes
 Sixth Avenue,,"New York, NY",40.742917,-73.992792,Hodes
 New Hampshire,,,43.377371,-71.61681,Hodes
-Hanover,,,43.706744,-72.286914,Hodes
+Hanover,,"Hanover, NH",43.706744,-72.286914,Hodes
 Sag Harbor,,"Sag Harbor, NY",41.000321,-72.292663,Hodes
 New York City,,"New York, NY",40.71243,-73.979617,Hodes
 Long Island,,,40.791974,-73.136261,Hodes
@@ -100,10 +100,10 @@ Parkhurst Hall,14 N Main St,"Hanover, NH",43.70367,-72.28956,Hodes
 Parkhurst Hall,14 N Main St,"Hanover, NH",43.70367,-72.28956,Hodes
 Parkhurst Hall,14 N Main St,"Hanover, NH",43.70367,-72.28956,Hodes
 Dartmouth,,"Hanover, NH",43.704425,-72.288704,Hodes
-"Hanover, New Hampshire",,"Hanover, NH",43.706744,-72.286914,Hodes
+"Hanover, New Hampshire",2 E Wheelock St,"Hanover, NH",43.702207,-72.288819,Hodes
 "Berkeley, California",,"Berkeley, CA",37.871223,-122.272941,Hodes
 Columbia,,"New York, NY",40.807535,-73.962605,Hodes
-United States,,,39.631537,-100.77659,Hodes
+United States,,,37.160477,-96.277202,Hodes
 Hanover Inn,2 E Wheelock St,"Hanover, NH",43.702207,-72.288819,Hodes
 Dartmouth,,"Hanover, NH",43.704425,-72.288704,Hodes
 Dartmouth,,"Hanover, NH",43.704425,-72.288704,Hodes
@@ -184,12 +184,12 @@ Iraq,,,33.040648,43.182035,Hodes
 Vietnam,,,14.572049,108.128215,Hodes
 Ticknor room,6065 Webster Ave,"Hanover, NH",43.704463,-72.288231,Kendall
 Rauner [Special Collections] Library,6065 Webster Ave,"Hanover, NH",43.704463,-72.288231,Kendall
-Dartmouth College,,"Hanover, NH",43.7031517,-72.2894135,Kendall
+Dartmouth College,,"Hanover, NH",43.704425,-72.288704,Kendall
 "Grand Junction, Colorado",,"Grand Junction, CO",39.0687904,-108.5644531,Kendall
 Grand Junction,,"Grand Junction, CO",39.0687904,-108.5644531,Kendall
-Dartmouth,,"Hanover, NH",43.7031517,-72.2894135,Kendall
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Kendall
 Grand Junction Airport,,"Grand Junction, CO",39.12183,-108.5290298,Kendall
-Philippines,,,12.924464,121.790292,Kendall
+Philippines,,,12.365825,123.44049,Kendall
 America,,,37.160477,-96.277202,Kendall
 Denver,,"Denver, CO",39.7400093,-104.9920197,Kendall
 Denver,,"Denver, CO",39.7400093,-104.9920197,Kendall
@@ -197,21 +197,21 @@ West Point,,"West Point, NY",41.392657,-73.960164,Kendall
 Thayer Hall,14 Engineering Drive,"Hanover, NH",43.704699,-72.293876,Kendall
 Commons or something [the Class of 1953 Commons],6 Mass Row,"Hanover, NH",43.703192,-72.290462,Kendall
 Wyoming,,Wyoming,43.079076,-107.29193,Kendall
-Colorado,,Colorado,39.56823,-105.783779,Kendall
+Colorado,,Colorado,39.56823,-105.78378,Kendall
 [Dartmouth] Green,1 East Wheelock St,"Hanover, NH",43.703416,-72.288561,Kendall
 Vail ski area,,"Vail, CO",39.6452904,-106.3861923,Kendall
 Fort Devens [Massachusetts],,"Fort Devens, MA",42.5371399,-72.6154938,Kendall
-Fort Devens,,"Fort Devens, MA",42.5073013,-71.666687,Kendall
-Vietnam,,,14.065122,108.271248,Kendall
-Vietnam,,,14.065122,108.271248,Kendall
+Fort Devens,,"Fort Devens, MA",42.5371399,-72.6154938,Kendall
+Vietnam,,,14.572049,108.128215,Kendall
+Vietnam,,,14.572049,108.128215,Kendall
 "Fort Benning, Georgia",,"Fort Benning, GA",32.3574905,-84.9562302,Kendall
-Vietnam,,,14.065122,108.271248,Kendall
-Vietnam,,,14.065122,108.271248,Kendall
-Cuba,,,21.64806,-77.794201,Kendall
+Vietnam,,,14.572049,108.128215,Kendall
+Vietnam,,,14.572049,108.128215,Kendall
+Cuba,,,21.66362,-78.909894,Kendall
 Guantanamo [Bay Detention Camp],,,19.9850464,-75.1393661,Kendall
-Vietnam,,,14.065122,108.271248,Kendall
-Vietnam,,,14.065122,108.271248,Kendall
-Vietnam,,,14.065122,108.271248,Kendall
+Vietnam,,,14.572049,108.128215,Kendall
+Vietnam,,,14.572049,108.128215,Kendall
+Vietnam,,,14.572049,108.128215,Kendall
 Bremen [Germany],,"Bremen, Germany",53.0750999,8.8046904,Kendall
 Munich,,"Munich, Germany",48.1364098,11.5775404,Kendall
 Mainz,,"Mainz, Germany",50.0006218,8.2724104,Kendall
@@ -228,100 +228,100 @@ West Germany,,,51.035,7.812014,Kendall
 Fulda Gap,,"Fulda Gap, Germany",50.6166649,9.416667,Kendall
 Fulda Gap,,"Fulda Gap, Germany",50.6166649,9.416667,Kendall
 Germany,,,51.251508,10.487078,Kendall
-Vietnam,,,14.065122,108.271248,Kendall
-Vietnam,,,14.065122,108.271248,Kendall
+Vietnam,,,14.572049,108.128215,Kendall
+Vietnam,,,14.572049,108.128215,Kendall
 Germany,,,51.251508,10.487078,Kendall
-Vietnam,,,14.065122,108.271248,Kendall
+Vietnam,,,14.572049,108.128215,Kendall
 Germany,,,51.251508,10.487078,Kendall
-Vietnam,,,14.065122,108.271248,Kendall
-Vietnam,,,14.065122,108.271248,Kendall
-Vietnam,,,14.065122,108.271248,Kendall
+Vietnam,,,14.572049,108.128215,Kendall
+Vietnam,,,14.572049,108.128215,Kendall
+Vietnam,,,14.572049,108.128215,Kendall
 U.S.,,,37.160477,-96.277202,Kendall
 Germany,,,51.251508,10.487078,Kendall
-Vietnam,,,14.065122,108.271248,Kendall
+Vietnam,,,14.572049,108.128215,Kendall
 States,,,37.160477,-96.277202,Kendall
 States,,,37.160477,-96.277202,Kendall
 States,,,37.160477,-96.277202,Kendall
 Candlestick Park,602 Jamestown Ave,"San Francisco, CA",37.7134705,-122.386116,Kendall
 Fort Benning,,"Fort Benning, GA",32.3574905,-84.9562302,Kendall
-Vietnam,,,14.065122,108.271248,Kendall
-Vietnam,,,14.065122,108.271248,Kendall
-Philippines,,,12.924464,121.790292,Kendall
+Vietnam,,,14.572049,108.128215,Kendall
+Vietnam,,,14.572049,108.128215,Kendall
+Philippines,,,12.365825,123.44049,Kendall
 Tan Son Nhut Air Base,,"Tan Son Nhut, Vietnam",10.8144598,106.6652222,Kendall
-Vietnam,,,14.065122,108.271248,Kendall
+Vietnam,,,14.572049,108.128215,Kendall
 Chu Lai,,"Chu Lai, Vietnam",15.993291,108.255581,Kendall
 Chu Lai Air Base,,"Chu Lai, Vietnam",15.4146099,108.7039719,Kendall
 Chu Lai,,"Chu Lai, Vietnam",15.993291,108.255581,Kendall
 Hill 59,,,14.065122,108.271248,Kendall
 Germany,,,51.251508,10.487078,Kendall
-Iraq,,,33.224653,43.679497,Kendall
+Iraq,,,33.040648,43.182035,Kendall
 Afghanistan,,,33.939593,67.709967,Kendall
-Da Nang,,"Đà Nang, Vietnam",16.0479698,108.2107086,Kendall
-Iraq,,,33.224653,43.679497,Kendall
+Da Nang,,"_ˆ Nang, Vietnam",16.0479698,108.2107086,Kendall
+Iraq,,,33.040648,43.182035,Kendall
 Afghanistan,,,33.939593,67.709967,Kendall
 Watts,,"Watts, CA",33.9412804,-118.2390289,Kendall
 Harlem,,"Harlem, NY",40.8088112,-73.9479599,Kendall
 Puerto Rico,,,18.220838,-66.590149,Kendall
 Hawaii,,,19.898745,-155.581358,Kendall
-Vietnam,,,14.065122,108.271248,Kendall
-Tam Kỳ,,"Tam Kỳ, Vietnam",15.5647583,108.495018,Kendall
+Vietnam,,,14.572049,108.128215,Kendall
+Tam K_,,"Tam K_, Vietnam",15.5647583,108.495018,Kendall
 Chu Lai,,"Chu Lai, Vietnam",15.993291,108.255581,Kendall
-Da Nang,,"Đà Nang, Vietnam",16.0479698,108.2107086,Kendall
+Da Nang,,"_ˆ Nang, Vietnam",16.0479698,108.2107086,Kendall
 South Vietnam,,,11.946627,108.46863,Kendall
-Vietnam,,,14.065122,108.271248,Kendall
+Vietnam,,,14.572049,108.128215,Kendall
 Idaho,,,44.068096,-114.741506,Kendall
-Tam Kỳ,,"Tam Kỳ, Vietnam",15.5647583,108.495018,Kendall
+Tam K_,,"Tam K_, Vietnam",15.5647583,108.495018,Kendall
 Chu Lai Airport [sic; Air Base],,"Chu Lai, Vietnam",15.4146099,108.7039719,Kendall
-Vietnam,,,14.065122,108.271248,Kendall
-Tam Kỳ,,"Tam Kỳ, Vietnam",15.5647583,108.495018,Kendall
-Tam Kỳ,,"Tam Kỳ, Vietnam",15.5647583,108.495018,Kendall
-Vietnam,,,14.065122,108.271248,Kendall
-Tam Kỳ,,"Tam Kỳ, Vietnam",15.5647583,108.495018,Kendall
-Tam Kỳ,,"Tam Kỳ, Vietnam",15.5647583,108.495018,Kendall
-Tam Kỳ,,"Tam Kỳ, Vietnam",15.5647583,108.495018,Kendall
-Vietnam,,,14.065122,108.271248,Kendall
+Vietnam,,,14.572049,108.128215,Kendall
+Tam K_,,"Tam K_, Vietnam",15.5647583,108.495018,Kendall
+Tam K_,,"Tam K_, Vietnam",15.5647583,108.495018,Kendall
+Vietnam,,,14.572049,108.128215,Kendall
+Tam K_,,"Tam K_, Vietnam",15.5647583,108.495018,Kendall
+Tam K_,,"Tam K_, Vietnam",15.5647583,108.495018,Kendall
+Tam K_,,"Tam K_, Vietnam",15.5647583,108.495018,Kendall
+Vietnam,,,14.572049,108.128215,Kendall
 U.S.,,,37.160477,-96.277202,Kendall
-Fort Devens,,"Fort Devens, MA",42.5073013,-71.666687,Kendall
-Vietnam,,,14.065122,108.271248,Kendall
-Vietnam,,,14.065122,108.271248,Kendall
+Fort Devens,,"Fort Devens, MA",42.5371399,-72.6154938,Kendall
+Vietnam,,,14.572049,108.128215,Kendall
+Vietnam,,,14.572049,108.128215,Kendall
 U.S.,,,37.160477,-96.277202,Kendall
 Massachusetts,,,42.407091,-71.382293,Kendall
-Vietnam,,,14.065122,108.271248,Kendall
-Vietnam,,,14.065122,108.271248,Kendall
-Vietnam,,,14.065122,108.271248,Kendall
+Vietnam,,,14.572049,108.128215,Kendall
+Vietnam,,,14.572049,108.128215,Kendall
+Vietnam,,,14.572049,108.128215,Kendall
 the Colorado River,,,34.261396,-114.130034,Kendall
 Colorado River,,,34.261396,-114.130034,Kendall
 Colorado River,,,34.261396,-114.130034,Kendall
 Saigon,,"Ho Chi Minh City, Vietnam",10.8219604,106.6400375,Kendall
-Vietnam,,,14.065122,108.271248,Kendall
+Vietnam,,,14.572049,108.128215,Kendall
 San Francisco,,"San Francisco, CA",37.7771187,-122.4196396,Kendall
 "Calcutta [now called Kolkata, India]",,"Kolkata, India",22.5705395,88.3712387,Kendall
 Calcutta,,"Kolkata, India",22.5705395,88.3712387,Kendall
-Vietnam,,,14.065122,108.271248,Kendall
-Vietnam,,,14.065122,108.271248,Kendall
-Vietnam,,,14.065122,108.271248,Kendall
+Vietnam,,,14.572049,108.128215,Kendall
+Vietnam,,,14.572049,108.128215,Kendall
+Vietnam,,,14.572049,108.128215,Kendall
 Malaysia,,,4.210227,101.97568,Kendall
-Iraq,,,33.224653,43.679497,Kendall
-Vietnam,,,14.065122,108.271248,Kendall
-Iraq,,,33.224653,43.679497,Kendall
+Iraq,,,33.040648,43.182035,Kendall
+Vietnam,,,14.572049,108.128215,Kendall
+Iraq,,,33.040648,43.182035,Kendall
 Afghanistan,,,33.939593,67.709967,Kendall
-Rauner [Special Collections] Library,6065 Webster Ave,"Hanover, NH",43.7056522,-72.2892457,Lovely
-Boston,,"Boston, MA",42.3601,-71.0589,Lovely
-Boston,,"Boston, MA",42.3601,-71.0589,Lovely
+Rauner [Special Collections] Library,6065 Webster Ave,"Hanover, NH",43.704463,-72.288231,Lovely
+Boston,,"Boston, MA",42.359814,-71.058755,Lovely
+Boston,,"Boston, MA",42.359814,-71.058755,Lovely
 "Lynn, Massachusetts",,"Lynn, MA",42.4668,-70.9495,Lovely
 Swampscott,,"Swampscott, MA",42.4709,-70.9176,Lovely
 "Swampscott, Massachusetts",,"Swampscott, MA",42.4709,-70.9176,Lovely
 Nahant,,"Nahant, MA",42.4266,-70.9223,Lovely
 Swampscott,,"Swampscott, MA",42.4709,-70.9176,Lovely
-Dartmouth,,"Hanover, NH",43.7022,-72.2896,Lovely
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Lovely
 Maine,,,45.2538,-69.4455,Lovely
 Cape [Cape Cod],,,41.6688,-70.2962,Lovely
-New Hampshire,,,43.1939,-71.5724,Lovely
+New Hampshire,,,43.377371,-71.61681,Lovely
 New Jersey,,,40.0583,-74.4057,Lovely
 Bowdoin College,,"Brunswick, ME",43.9077,-69.964,Lovely
 "Brunswick, Maine",,"Brunswick, ME",43.914,-69.967,Lovely
-Boston,,"Boston, MA",42.3601,-71.0589,Lovely
-Boston,,"Boston, MA",42.3601,-71.0589,Lovely
+Boston,,"Boston, MA",42.359814,-71.058755,Lovely
+Boston,,"Boston, MA",42.359814,-71.058755,Lovely
 Nahant,,"Nahant, MA",42.4266,-70.9223,Lovely
 Nahant,,"Nahant, MA",42.4266,-70.9223,Lovely
 Lynn,,"Lynn, MA",42.4668,-70.9495,Lovely
@@ -330,166 +330,166 @@ Lynn,,"Lynn, MA",42.4668,-70.9495,Lovely
 Nahant,,"Nahant, MA",42.4266,-70.9223,Lovely
 Nahant,,"Nahant, MA",42.4266,-70.9223,Lovely
 Nahant,,"Nahant, MA",42.4266,-70.9223,Lovely
-New Hampshire,,,43.1939,-71.5724,Lovely
+New Hampshire,,,43.377371,-71.61681,Lovely
 Nahant,,"Nahant, MA",42.4266,-70.9223,Lovely
-Dartmouth,,"Hanover, NH",43.7022,-72.2896,Lovely
-Boston,,,42.3601,-71.0589,Lovely
-West Point,,"West Point, NY",41.3915,-73.956,Lovely
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Lovely
+Boston,,"Boston, MA",42.359814,-71.058755,Lovely
+West Point,,"West Point, NY",41.392657,-73.960164,Lovely
 Mount Moosilauke,,"Benton, NH",44.0245,-71.8309,Lovely
 Moosilauke,,"Benton, NH",44.0245,-71.8309,Lovely
 Moosilauke,,"Benton, NH",44.0245,-71.8309,Lovely
 [Second College] Grant,,,44.5454,-71.0647,Lovely
 UMass [University of Massachusetts],,"Amherst, MA",42.3868,-72.5301,Lovely
 Massachusetts Hall,12 Mass Row,"Hanover, NH",43.7034068,-72.290392,Lovely
-Thayer Hall,,"Hanover, NH",43.7046,-72.2943,Lovely
+Thayer Hall,14 Engineering Drive,"Hanover, NH",43.704699,-72.293876,Lovely
 The mural room,6025 Main St,"Hanover, NH",43.700465,-72.2895,Lovely
-Long Island,,,40.7891,-73.135,Lovely
+Long Island,,,40.791974,-73.136261,Lovely
 "Garden City, Long Island [New York]",,"Garden City, NY",40.7268,-73.6343,Lovely
 the Connecticut River,,,45.1453,-71.1251,Lovely
 Mount Ascutney,,,43.4445,-72.4537,Lovely
-Dartmouth,,"Hanover, NH",43.7022,-72.2896,Lovely
-Dartmouth,,"Hanover, NH",43.7022,-72.2896,Lovely
-Dartmouth,,"Hanover, NH",43.7022,-72.2896,Lovely
-Hanover,,"Hanover, NH",43.7022,-72.2896,Lovely
-Hanover,,"Hanover, NH",43.7022,-72.2896,Lovely
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Lovely
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Lovely
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Lovely
+Hanover,,"Hanover, NH",43.706744,-72.286914,Lovely
+Hanover,,"Hanover, NH",43.706744,-72.286914,Lovely
 College Hall,,"Hanover, NH",43.7022,-72.2896,Lovely
 Wellesley [College],,"Wellesley, MA",42.2936,-71.3059,Lovely
 Skidmore [College],,"Saratoga Springs, NY",43.0957,-73.7857,Lovely
 "Colby [Junior College, now Colby-Sawyer College]",,"New London, NH",43.4121,-71.978,Lovely
 Green Mountain Junior College [now Green Mountain College],,"Poultney, VT",43.5167,-73.2442,Lovely
-"Heorot [Chi Heorot, formerly Chi Phi] House",,"Hanover, NH",43.7022,-72.2896,Lovely
+"Heorot [Chi Heorot, formerly Chi Phi] House",11 E Wheelock St,"Hanover, NH",43.7022,-72.2896,Lovely
 Colby,,"New London, NH",43.4121,-71.978,Lovely
 Green Mountain,,"Poultney, VT",43.5167,-73.2442,Lovely
 "Saratoga [Springs, New York]",,"Saratoga Springs, NY",43.0831,-73.7846,Lovely
 Smith,,"Northampton, MA",42.3163,-72.6403,Lovely
 the Hop [Hopkins Center for the Arts],4 E Wheelock St,"Hanover, NH",43.701802,-72.287059,Lovely
 the Hop,4 E Wheelock St,"Hanover, NH",43.701802,-72.287059,Lovely
-Dartmouth,,"Hanover, NH",43.7022,-72.2896,Lovely
-Boston,,"Boston, MA",42.3601,-71.0589,Lovely
-Chi Phi,,"Hanover, NH",43.7022,-72.2896,Lovely
-Hanover,,"Hanover, NH",43.7022,-72.2896,Lovely
-Thayer Hall,,"Hanover, NH",43.7046,-72.2943,Lovely
-Vietnam,,,14.0583,108.2772,Lovely
-Dartmouth,,"Hanover, NH",43.7022,-72.2896,Lovely
-Vietnam,,,14.0583,108.7227,Lovely
-Vietnam,,,14.0583,108.7227,Lovely
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Lovely
+Boston,,"Boston, MA",42.359814,-71.058755,Lovely
+Chi Phi,11 E Wheelock St,"Hanover, NH",43.7022,-72.2896,Lovely
+Hanover,,"Hanover, NH",43.706744,-72.286914,Lovely
+Thayer Hall,14 Engineering Drive,"Hanover, NH",43.704699,-72.293876,Lovely
+Vietnam,,,14.572049,108.128215,Lovely
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Lovely
+Vietnam,,,14.572049,108.128215,Lovely
+Vietnam,,,14.572049,108.128215,Lovely
 "Quantico [Marine Cops Base Quantico, in Virginia]",,"Quantico, VA",38.5199,-77.3152,Lovely
 Quantico,,"Quantico, VA",38.5229,-77.2901,Lovely
 The BEMA [Big Empty Meeting Area],,"Hanover, NH",43.7052,-72.2845,Lovely
-Dartmouth,,"Hanover, NH",43.7022,-72.2896,Lovely
-Dartmouth,,"Hanover, NH",43.7022,-72.2896,Lovely
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Lovely
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Lovely
 "Quantico, Virginia",,"Quantico, VA",38.5229,-77.2901,Lovely
 Kansas,,,39.0119,-98.4842,Lovely
-Vietnam,,,14.0583,108.7227,Lovely
-Quantico,,"Quantico, VA",38.5199,-77.3152,Lovely
-Boston,,"Boston, MA",42.3601,-71.0589,Lovely
-Vietnam,,,14.0583,108.7227,Lovely
-Vietnam,,,14.0583,108.7227,Lovely
-San Francisco,,"San Francisco, CA",37.7749,-122.4194,Lovely
-San Francisco,,"San Francisco, CA",37.7749,-122.4194,Lovely
-San Francisco,,"San Francisco, CA",37.7749,-122.4194,Lovely
+Vietnam,,,14.572049,108.128215,Lovely
+Quantico,,"Quantico, VA",38.5229,-77.2901,Lovely
+Boston,,"Boston, MA",42.359814,-71.058755,Lovely
+Vietnam,,,14.572049,108.128215,Lovely
+Vietnam,,,14.572049,108.128215,Lovely
+San Francisco,,"San Francisco, CA",37.7771187,-122.4196396,Lovely
+San Francisco,,"San Francisco, CA",37.7771187,-122.4196396,Lovely
+San Francisco,,"San Francisco, CA",37.7771187,-122.4196396,Lovely
 International Date Line,,,-16.15,180,Lovely
 "Okinawa [Islands, Japan]",,,26.1202,127.7025,Lovely
 Okinawa,,,26.1202,127.7025,Lovely
 Okinawa,,,26.1202,127.7025,Lovely
-Vietnam,,,14.0583,108.7227,Lovely
+Vietnam,,,14.572049,108.128215,Lovely
 Okinawa,,,26.1202,127.7025,Lovely
-Vietnam,,,14.0583,108.7227,Lovely
-Vietnam,,,14.0583,108.7227,Lovely
+Vietnam,,,14.572049,108.128215,Lovely
+Vietnam,,,14.572049,108.128215,Lovely
 I Corps,,,15.656681,108.079846,Lovely
-Vietnam,,,14.0583,108.7227,Lovely
+Vietnam,,,14.572049,108.128215,Lovely
 I Corps,,,15.656681,108.079846,Lovely
-Vietnam,,,14.0583,108.7227,Lovely
+Vietnam,,,14.572049,108.128215,Lovely
 DMZ [Demilitarized Zone],,,17,106,Lovely
-ÄÃ´ng HÃ ,,Dong Ha,16.8089,107.0894,Lovely
-Huáº¿,,Hue,16.4637,107.5909,Lovely
+_™ng Hˆ,,Dong Ha,16.8089,107.0894,Lovely
+Hu‡¼À,,Hue,16.4637,107.5909,Lovely
 [National] Route 9,,,16.788109,106.871461,Lovely
 I Corps,,,15.656681,108.079846,Lovely
 Khe Sanh,,Khe Sanh,16.6193,106.7323,Lovely
 Khe Sanh,,Khe Sanh,16.6193,106.7323,Lovely
 Khe Sanh,,Khe Sanh,16.6193,106.7323,Lovely
-Äiá»‡n BiÃªn Phá»§,,Dien Bien Phu,21.4064,103.0322,Lovely
+Dien Bien Phu,,Dien Bien Phu,21.4064,103.0322,Lovely
 Khe Sanh,,Khe Sanh,16.6193,106.7323,Lovely
 Khe Sanh,,Khe Sanh,16.6193,106.7323,Lovely
 Khe Sanh,,Khe Sanh,16.6193,106.7323,Lovely
 Hill 68,,,14.0583,108.7227,Lovely
 Khe Sanh,,Khe Sanh,16.6193,106.7323,Lovely
-Rauner Library,,"Hanover, NH",43.7056522,-72.2892457,Lovely
-"Hanover, New Hampshire",,"Hanover, NH",43.7022,-72.2896,Lovely
-Boston,,"Boston, MA",42.3601,-71.0589,Lovely
+Rauner Library,6065 Webster Ave,"Hanover, NH",43.704463,-72.288231,Lovely
+"Hanover, New Hampshire",,"Hanover, NH",43.706744,-72.286914,Lovely
+Boston,,"Boston, MA",42.359814,-71.058755,Lovely
 Khe Sanh,,Khe Sanh,16.6193,106.7323,Lovely
 Khe Sanh,,Khe Sanh,16.6193,106.7323,Lovely
-Vietnam,,,14.0583,108.7227,Lovely
+Vietnam,,,14.572049,108.128215,Lovely
 Khe Sanh,,Khe Sanh,16.6193,106.7323,Lovely
-North Vietnam,,,21.016,105.5059,Lovely
-Há»“ ChÃ­ Minh trail,,,16.498678,106.486979,Lovely
-North Vietnam,,,21.016,105.5059,Lovely
+North Vietnam,,,21.018786,105.833333,Lovely
+H_ Ch’ Minh trail,,,16.498678,106.486979,Lovely
+North Vietnam,,,21.018786,105.833333,Lovely
 Laotian border,,,16.686293,106.590804,Lovely
 Laotian border,,,16.686293,106.590804,Lovely
-South Vietnam,,,10.45,106.4,Lovely
-ÄÃ´ng HÃ ,,Dong Ha,16.8089,107.0894,Lovely
-Hawaii,,,19.8968,-155.5828,Lovely
+South Vietnam,,,11.946627,108.46863,Lovely
+_™ng Hˆ,,Dong Ha,16.8089,107.0894,Lovely
+Hawaii,,,19.898745,-155.581358,Lovely
 Khe Sanh,,Khe Sanh,16.6193,106.7323,Lovely
 Khe Sanh,,Khe Sanh,16.6193,106.7323,Lovely
-ÄÃ´ng HÃ ,,Dong Ha,16.8089,107.0894,Lovely
-Da Nang,,Da Nang,16.0544,108.2022,Lovely
-Da Nang,,Da Nang,16.0544,108.2022,Lovely
-Da Nang,,Da Nang,16.0544,108.2022,Lovely
-ÄÃ´ng HÃ ,,Dong Ha,16.8089,107.0894,Lovely
-Vietnam,,,14.0583,108.7227,Lovely
+_™ng Hˆ,,Dong Ha,16.8089,107.0894,Lovely
+Da Nang,,"_ˆ Nang, Vietnam",16.0479698,108.2107086,Lovely
+Da Nang,,"_ˆ Nang, Vietnam",16.0479698,108.2107086,Lovely
+Da Nang,,"_ˆ Nang, Vietnam",16.0479698,108.2107086,Lovely
+_™ng Hˆ,,Dong Ha,16.8089,107.0894,Lovely
+Vietnam,,,14.572049,108.128215,Lovely
 Okinawa,,,26.1202,127.7025,Lovely
-Vietnam,,,14.0583,108.7227,Lovely
+Vietnam,,,14.572049,108.128215,Lovely
 "Newport, Rhode Island",,"Newport, RI",41.4901,-71.3128,Lovely
 Newport,,"Newport, RI",41.4901,-71.3128,Lovely
 Newport,,"Newport, RI",41.4901,-71.3128,Lovely
-Nahant,,"Nahant, MA",42.4266,-70.9223,Lovely
+Nahant,,"Newport, RI",41.4901,-71.3128,Lovely
 Newport,,"Newport, RI",41.4901,-71.3128,Lovely
 Newport,,"Newport, RI",41.4901,-71.3128,Lovely
 Newport,,"Newport, RI",41.4901,-71.3128,Lovely
 "Dorchester, Massachusetts",,"Dorchester, MA",42.3016,-71.0676,Lovely
-Boston,,"Boston, MA",42.3601,-71.0589,Lovely
-Boston,,"Boston, MA",42.3601,-71.0589,Lovely
-Boston,,"Boston, MA",42.3601,-71.0589,Lovely
-Boston,,"Boston, MA",42.3601,-71.0589,Lovely
-Boston,,"Boston, MA",42.3601,-71.0589,Lovely
-Boston,,"Boston, MA",42.3601,-71.0589,Lovely
-Boston,,"Boston, MA",42.3601,-71.0589,Lovely
+Boston,,"Boston, MA",42.359814,-71.058755,Lovely
+Boston,,"Boston, MA",42.359814,-71.058755,Lovely
+Boston,,"Boston, MA",42.359814,-71.058755,Lovely
+Boston,,"Boston, MA",42.359814,-71.058755,Lovely
+Boston,,"Boston, MA",42.359814,-71.058755,Lovely
+Boston,,"Boston, MA",42.359814,-71.058755,Lovely
+Boston,,"Boston, MA",42.359814,-71.058755,Lovely
 "Fredericksburg, Virginia",,"Fredericksburg, VA",38.3032,-77.4605,Lovely
-Vietnam,,,14.0583,108.7227,Lovely
+Vietnam,,,14.572049,108.128215,Lovely
 Newport,,"Newport, RI",41.4901,-71.3128,Lovely
 Jones Media Center,6025 Baker-Berry Library,"Hanover, NH",43.7024689,-72.2885437,Rutter
 Baker-Berry Library,6025 Baker-Berry Library,"Hanover, NH",43.7024689,-72.2885437,Rutter
 "Hanover, NH",,"Hanover, NH",43.7024689,-72.2885437,Rutter
-Boston,,"Boston, MA",42.3586617,-71.0567398,Rutter
-Boston,,"Boston, MA",42.3586617,-71.0567398,Rutter
-Boston,,"Boston, MA",42.3586617,-71.0567398,Rutter
+Boston,,"Boston, MA",42.359814,-71.058755,Rutter
+Boston,,"Boston, MA",42.359814,-71.058755,Rutter
+Boston,,"Boston, MA",42.359814,-71.058755,Rutter
 Italy,,,43.5290298,12.1621838,Rutter
 Genoa,,Genoa,44.4103889,8.9389801,Rutter
 Vienna [Austria],,Vienna,48.2026291,16.3684196,Rutter
-Washington [D.C.],,Washington [D.C.],38.8903694,-77.0319595,Rutter
+Washington [D.C.],,"Washington, D.C.",38.90542,-77.036307,Rutter
 London [England],,London [England],51.4724693,-0.45288,Rutter
-Washington,,,47.4112968,-120.5562668,Rutter
-New Hampshire,,,43.6855278,-71.5775986,Rutter
-New Hampshire,,,43.6855278,-71.5775986,Rutter
+Washington,,"Washington, D.C.",38.90542,-77.036307,Rutter
+New Hampshire,,,43.377371,-71.61681,Rutter
+New Hampshire,,,43.377371,-71.61681,Rutter
 Greece,,,39.3474388,22.5712681,Rutter
-U.S.,,,39.4959106,-98.9899826,Rutter
+U.S.,,,37.160477,-96.277202,Rutter
 England,,,52.598877,-1.466881,Rutter
-America,,,39.4959106,-98.9899826,Rutter
-U.S.,,,39.4959106,-98.9899826,Rutter
+America,,,37.160477,-96.277202,Rutter
+U.S.,,,37.160477,-96.277202,Rutter
 Exeter,20 Main Street,"Exeter, NH",42.98055,-70.95082,Rutter
 Exeter,20 Main Street,"Exeter, NH",42.98055,-70.95082,Rutter
 England,,,52.598877,-1.466881,Rutter
-Exeter,,,50.719841,-3.53019,Rutter
+Exeter,20 Main Street,"Exeter, NH",42.98055,-70.95082,Rutter
 Delaware,,,39.0081291,-75.4674683,Rutter
-America,,,39.4959106,-98.9899826,Rutter
+America,,,37.160477,-96.277202,Rutter
 Exeter,20 Main Street,"Exeter, NH",42.98055,-70.95082,Rutter
-America,,,39.4959106,-98.9899826,Rutter
-Vietnam,,,16.1676922,107.8390503,Rutter
+America,,,37.160477,-96.277202,Rutter
+Vietnam,,,14.572049,108.128215,Rutter
 England,,,52.598877,-1.466881,Rutter
 Exeter,20 Main Street,"Exeter, NH",42.98055,-70.95082,Rutter
 Haverford [College],370 Lancaster Avenue,"Haverford, PA",40.006933,-75.305609,Rutter
 Haverford [College],370 Lancaster Avenue,"Haverford, PA",40.006933,-75.305609,Rutter
-New Hampshire,,,43.6855278,-71.5775986,Rutter
+New Hampshire,,,43.377371,-71.61681,Rutter
 Exeter,20 Main Street,"Exeter, NH",42.98055,-70.95082,Rutter
 Princeton [University],70 Washington Road,"Princeton, NJ",40.34663,-74.6536,Rutter
 Princeton [University],70 Washington Road,"Princeton, NJ",40.34663,-74.6536,Rutter
@@ -499,8 +499,8 @@ Princeton [University],70 Washington Road,"Princeton, NJ",40.34663,-74.6536,Rutt
 Princeton [University],70 Washington Road,"Princeton, NJ",40.34663,-74.6536,Rutter
 Exeter,20 Main Street,"Exeter, NH",42.98055,-70.95082,Rutter
 Princeton [University],70 Washington Road,"Princeton, NJ",40.34663,-74.6536,Rutter
-Dartmouth,6016 McNutt Hall,"Hanover, NH",43.70356,-72.289908,Rutter
-Dartmouth,6016 McNutt Hall,"Hanover, NH",43.70356,-72.289908,Rutter
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Rutter
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Rutter
 Haverford [College],370 Lancaster Avenue,"Haverford, PA",40.006933,-75.305609,Rutter
 Haverford [College],370 Lancaster Avenue,"Haverford, PA",40.006933,-75.305609,Rutter
 Haverford [College],370 Lancaster Avenue,"Haverford, PA",40.006933,-75.305609,Rutter
@@ -515,123 +515,123 @@ Haverford,370 Lancaster Avenue,"Haverford, PA",40.006933,-75.305609,Rutter
 Haverford,370 Lancaster Avenue,"Haverford, PA",40.006933,-75.305609,Rutter
 Haverford,370 Lancaster Avenue,"Haverford, PA",40.006933,-75.305609,Rutter
 Haverford,370 Lancaster Avenue,"Haverford, PA",40.006933,-75.305609,Rutter
-America,,,39.4959106,-98.9899826,Rutter
+America,,,37.160477,-96.277202,Rutter
 Rock Creek,,"Washington, D.C.",38.8903694,-77.0319595,Rutter
 Rock Creek,,"Washington, D.C.",38.8903694,-77.0319595,Rutter
-U.S.,,,39.4959106,-98.9899826,Rutter
+U.S.,,,37.160477,-96.277202,Rutter
 Philadelphia,,"Philadelphia, PA",39.9522209,-75.162178,Rutter
 Haverford,370 Lancaster Avenue,"Haverford, PA",40.006933,-75.305609,Rutter
 Italy,,,43.5290298,12.1621838,Rutter
 Rome,,Rome,41.9032211,12.4956503,Rutter
 Mississippi,,,32.7218018,-89.6562424,Rutter
 Lincoln Memorial,2 Lincoln Memorial Circle,"Washington, D.C.",38.88922,-77.05016,Rutter
-St. Andrew’s,350 Noxontown Road,"Middletown, DE",39.43382,-75.68904,Rutter
+St. Andrew's,350 Noxontown Road,"Middletown, DE",39.43382,-75.68904,Rutter
 Delaware,,,39.0081291,-75.4674683,Rutter
 Nuremberg,,Nuremberg,49.4543419,11.0734901,Rutter
 Nuremberg,,Nuremberg,49.4543419,11.0734901,Rutter
 Exeter,20 Main Street,"Exeter, NH",42.98055,-70.95082,Rutter
-Massachusetts,,,42.1561852,-71.5661926,Rutter
+Massachusetts,,,42.407091,-71.382293,Rutter
 Exeter,20 Main Street,"Exeter, NH",42.98055,-70.95082,Rutter
-New Hampshire,,,43.6855278,-71.5775986,Rutter
-Vietnam,,,16.1676922,107.8390503,Rutter
+New Hampshire,,,43.377371,-71.61681,Rutter
+Vietnam,,,14.572049,108.128215,Rutter
 Philadelphia,,"Philadelphia, PA",39.9522209,-75.162178,Rutter
 Haverford,370 Lancaster Avenue,"Haverford, PA",40.006933,-75.305609,Rutter
 Penn,,"Philadelphia, PA",39.9500008,-75.1541672,Rutter
 Bryn Mawr,101 N Merion Avenue,"Bryn Mawr, PA",40.027582,-75.315186,Rutter
-Canada,,,50.95957,-1.58912,Rutter
+Canada,,,57.679315,-101.736004,Rutter
 Montreal,,Montreal,45.5234985,-73.6807251,Rutter
 Italy,,,43.5290298,12.1621838,Rutter
 Bay of Naples,,Naples,40.7209854,14.2923613,Rutter
 Ischia,,Ischia,40.7330017,13.9499998,Rutter
-Vietnam,,,16.1676922,107.8390503,Rutter
+Vietnam,,,14.572049,108.128215,Rutter
 Fort Bliss,,El Paso,31.8125095,-106.4383469,Rutter
 Texas,,,31.4627457,-99.333046,Rutter
 Fort Dix,,Burlington County,40.0216789,-74.6291122,Rutter
 Philly,,"Philadelphia, PA",39.9522209,-75.162178,Rutter
-Dix,,Burlington County,39.8775177,-74.6679001,Rutter
-Vietnam,,,16.1676922,107.8390503,Rutter
+Dix,,Burlington County,40.0216789,-74.6291122,Rutter
+Vietnam,,,14.572049,108.128215,Rutter
 Fort Dix,,Burlington County,40.0216789,-74.6291122,Rutter
 Georgia,,,32.6483307,-83.4445572,Rutter
-Vietnam,,,16.1676922,107.8390503,Rutter
+Vietnam,,,14.572049,108.128215,Rutter
 Philadelphia,,"Philadelphia, PA",39.9522209,-75.162178,Rutter
-Vietnam,,,16.1676922,107.8390503,Rutter
+Vietnam,,,14.572049,108.128215,Rutter
 Fort Gordon,,"Augusta, GA",33.3989182,-82.1227493,Rutter
 Georgia,,,32.6483307,-83.4445572,Rutter
 Philly,,"Philadelphia, PA",39.9522209,-75.162178,Rutter
-Germany,,,51.1218071,10.4006948,Rutter
-Vietnam,,,16.1676922,107.8390503,Rutter
-Vietnam,,,16.1676922,107.8390503,Rutter
-Vietnam,,,16.1676922,107.8390503,Rutter
-Vietnam,,,16.1676922,107.8390503,Rutter
+Germany,,,51.251508,10.487078,Rutter
+Vietnam,,,14.572049,108.128215,Rutter
+Vietnam,,,14.572049,108.128215,Rutter
+Vietnam,,,14.572049,108.128215,Rutter
+Vietnam,,,14.572049,108.128215,Rutter
 Italy,,,43.5290298,12.1621838,Rutter
-Vietnam,,,16.1676922,107.8390503,Rutter
-Vietnam,,,16.1676922,107.8390503,Rutter
-Vietnam,,,16.1676922,107.8390503,Rutter
+Vietnam,,,14.572049,108.128215,Rutter
+Vietnam,,,14.572049,108.128215,Rutter
+Vietnam,,,14.572049,108.128215,Rutter
 I,,,15.656681,108.079846,Rutter
 II,,,13.528398,108.476828,Rutter
 III,,,11.14921,106.944778,Rutter
 IV Corps,,,9.734344,105.401278,Rutter
-Vietnam,,,16.1676922,107.8390503,Rutter
-Vietnamese,,,16.1676922,107.8390503,Rutter
-Vietnam,,,16.1676922,107.8390503,Rutter
+Vietnam,,,14.572049,108.128215,Rutter
+Vietnamese,,,14.572049,108.128215,Rutter
+Vietnam,,,14.572049,108.128215,Rutter
 Guadalcanal [Solomon Islands],,,-9.6190243,160.1548004,Rutter
 "Cam Ranh Bay [sic; Cam Ranh Air Base, now Cam Ranh International Airport]",,Phan Rang,11.562686,108.9947739,Rutter
-Vietnam,,,16.1676922,107.8390503,Rutter
+Vietnam,,,14.572049,108.128215,Rutter
 Exeter,20 Main Street,"Exeter, NH",42.98055,-70.95082,Rutter
-Vietnam,,,16.1676922,107.8390503,Rutter
-Vietnam,,,16.1676922,107.8390503,Rutter
+Vietnam,,,14.572049,108.128215,Rutter
+Vietnam,,,14.572049,108.128215,Rutter
 Cam Ranh Bay Airport,,Phan Rang,11.562686,108.9947739,Rutter
-Dĩ An,,Saigon,10.8219604,106.6400375,Rutter
+D_ An,,Saigon,10.8219604,106.6400375,Rutter
 III Corps,,,11.14921,106.944778,Rutter
-Saigon,,Saigon,10.8219604,106.6400375,Rutter
-Parrot’s Peak,,Svay Rieng Province,11.1538963,105.8613968,Rutter
-Dĩ An,,Saigon,10.8219604,106.6400375,Rutter
-Vietnam,,,16.1676922,107.8390503,Rutter
+Saigon,,"Ho Chi Minh City, Vietnam",10.8219604,106.6400375,Rutter
+Parrot's Peak,,Svay Rieng Province,11.1538963,105.8613968,Rutter
+D_ An,,Saigon,10.8219604,106.6400375,Rutter
+Vietnam,,,14.572049,108.128215,Rutter
 Cam Ranh,,Phan Rang,11.92474,109.16332,Rutter
 Cam Ranh,,Phan Rang,11.92474,109.16332,Rutter
-U.S.,,,39.4959106,-98.9899826,Rutter
+U.S.,,,37.160477,-96.277202,Rutter
 Philadelphia,,"Philadelphia, PA",39.9522209,-75.162178,Rutter
-II Corps,,,44.8185196,5.9474902,Rutter
+II Corps,,,13.528398,108.476828,Rutter
 Cam Ranh,,Phan Rang,11.92474,109.16332,Rutter
 Cam Ranh,,Phan Rang,11.92474,109.16332,Rutter
 Phan Rang,,Phan Rang,11.92474,109.16332,Rutter
 Phan Rang,,Phan Rang,11.92474,109.16332,Rutter
 Phan Rang,,Phan Rang,11.92474,109.16332,Rutter
-Vietnam,,,16.1676922,107.8390503,Rutter
-Vietnam,,,16.1676922,107.8390503,Rutter
+Vietnam,,,14.572049,108.128215,Rutter
+Vietnam,,,14.572049,108.128215,Rutter
 Athens,,"Athens, Georgia",33.97017,-83.38426,Rutter
 Haverford,370 Lancaster Avenue,"Haverford, PA",40.006933,-75.305609,Rutter
-Vietnam,,,16.1676922,107.8390503,Rutter
-Vietnam,,,16.1676922,107.8390503,Rutter
-Vietnam,,,16.1676922,107.8390503,Rutter
-Hawaii,,,19.5985184,-155.5185547,Rutter
+Vietnam,,,14.572049,108.128215,Rutter
+Vietnam,,,14.572049,108.128215,Rutter
+Vietnam,,,14.572049,108.128215,Rutter
+Hawaii,,,19.898745,-155.581358,Rutter
 Philadelphia,,"Philadelphia, PA",39.9522209,-75.162178,Rutter
-Vietnam,,,16.1676922,107.8390503,Rutter
+Vietnam,,,14.572049,108.128215,Rutter
 Japan,,,36.6533356,137.9816895,Rutter
 Alaska,,,63.1741142,-153.7042694,Rutter
 Japan,,,36.6533356,137.9816895,Rutter
 Alaska,,,63.1741142,-153.7042694,Rutter
-Vietnam,,,16.1676922,107.8390503,Rutter
-Vietnam,,,16.1676922,107.8390503,Rutter
+Vietnam,,,14.572049,108.128215,Rutter
+Vietnam,,,14.572049,108.128215,Rutter
 Greece,,,39.3474388,22.5712681,Rutter
 Bahamas,,,33.6436,-117.64028,Rutter
-Chicago,,"Chicago, IL",41.7922173,-87.6018372,Rutter
+Chicago,,"Chicago, IL",41.877702,-87.629009,Rutter
 Greece,,,39.3474388,22.5712681,Rutter
 Greece,,,39.3474388,22.5712681,Rutter
 Penn,,"Philadelphia, PA",39.9500008,-75.1541672,Rutter
 Greece,,,39.3474388,22.5712681,Rutter
-New Hampshire,,,43.6855278,-71.5775986,Rutter
-Dartmouth,6016 McNutt Hall,"Hanover, NH",43.70356,-72.289908,Rutter
-Dartmouth,6016 McNutt Hall,"Hanover, NH",43.70356,-72.289908,Rutter
-U.S.,,,39.4959106,-98.9899826,Rutter
-Vietnam,,,16.1676922,107.8390503,Rutter
-Vietnam,,,16.1676922,107.8390503,Rutter
+New Hampshire,,,43.377371,-71.61681,Rutter
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Rutter
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Rutter
+U.S.,,,37.160477,-96.277202,Rutter
+Vietnam,,,14.572049,108.128215,Rutter
+Vietnam,,,14.572049,108.128215,Rutter
 Haverford,370 Lancaster Avenue,"Haverford, PA",40.006933,-75.305609,Rutter
 Philly,,"Philadelphia, PA",39.9522209,-75.162178,Rutter
-Vietnam,,,16.1676922,107.8390503,Rutter
-Rauner [Special Collections] Library,6065 Webster Ave,Hanover,43.704608,-72.288208,Strauss
-Dartmouth College,,Hanover,43.704375,-72.289169,Strauss
-"Hanover, New Hampshire",,Hanover,43.70304,-72.289372,Strauss
+Vietnam,,,14.572049,108.128215,Rutter
+Rauner [Special Collections] Library,6065 Webster Ave,"Hanover, NH",43.704463,-72.288231,Strauss
+Dartmouth College,,"Hanover, NH",43.704425,-72.288704,Strauss
+"Hanover, New Hampshire",,"Hanover, NH",43.706744,-72.286914,Strauss
 London,,London,51.508242,-0.127713,Strauss
 South Africa,,,-30.914272,24.148513,Strauss
 South Africa,,,-30.914272,24.148513,Strauss
@@ -639,7 +639,7 @@ Cambridge [England],,Cambridge,52.218956,0.123413,Strauss
 Paris [France],,Paris,48.856524,2.353716,Strauss
 London,,London,51.508242,-0.127713,Strauss
 Vermont,,,44.378279,-72.783113,Strauss
-States,,,40.237693,-103.96806,Strauss
+States,,,37.160477,-96.277202,Strauss
 Vermont,,,44.378279,-72.783113,Strauss
 South Africa,,,-30.914272,24.148513,Strauss
 South Africa,,,-30.914272,24.148513,Strauss
@@ -665,234 +665,234 @@ Paris,,Paris,48.856524,2.353716,Strauss
 Paris,,Paris,48.856524,2.353716,Strauss
 Geneva,,Geneva,46.205008,6.14443,Strauss
 London,,London,51.508242,-0.127713,Strauss
-America,,,40.237693,-103.96806,Strauss
+America,,,37.160477,-96.277202,Strauss
 London,,London,51.508242,-0.127713,Strauss
 Vermont,,,44.378279,-72.783113,Strauss
-America,,,40.237693,-103.96806,Strauss
+America,,,37.160477,-96.277202,Strauss
 Vermont,,,44.378279,-72.783113,Strauss
-America,,,40.237693,-103.96806,Strauss
+America,,,37.160477,-96.277202,Strauss
 South Africa,,,-30.914272,24.148513,Strauss
 Vermont,,,44.378279,-72.783113,Strauss
-States,,,40.237693,-103.96806,Strauss
-Washington,,Washington,38.909611,-77.043869,Strauss
-Washington,,Washington,38.909611,-77.043869,Strauss
-D.C.,,Washington,38.909611,-77.043869,Strauss
-England,,,52.528278,-1.833871,Strauss
-America,,,40.237693,-103.96806,Strauss
-Vietnam,,,14.333615,108.423797,Strauss
+States,,,37.160477,-96.277202,Strauss
+Washington,,"Washington, D.C.",38.90542,-77.036307,Strauss
+Washington,,"Washington, D.C.",38.90542,-77.036307,Strauss
+D.C.,,"Washington, D.C.",38.90542,-77.036307,Strauss
+England,,,52.598877,-1.466881,Strauss
+America,,,37.160477,-96.277202,Strauss
+Vietnam,,,14.572049,108.128215,Strauss
 Vermont,,,44.378279,-72.783113,Strauss
-England,,,52.528278,-1.833871,Strauss
-England,,,52.528278,-1.833871,Strauss
-England,,,52.528278,-1.833871,Strauss
-North Vietnam,,,21.466764,105.986617,Strauss
+England,,,52.598877,-1.466881,Strauss
+England,,,52.598877,-1.466881,Strauss
+England,,,52.598877,-1.466881,Strauss
+North Vietnam,,,21.018786,105.833333,Strauss
 Israel,,,30.991976,34.958131,Strauss
-England,,,52.528278,-1.833871,Strauss
-Dartmouth,,Hanover,43.704375,-72.289169,Strauss
+England,,,52.598877,-1.466881,Strauss
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Strauss
 London,,London,51.508242,-0.127713,Strauss
-States,,,40.237693,-103.96806,Strauss
-England,,,52.528278,-1.833871,Strauss
+States,,,37.160477,-96.277202,Strauss
+England,,,52.598877,-1.466881,Strauss
 South Africa,,,-30.914272,24.148513,Strauss
-United States,,,40.237693,-103.96806,Strauss
-England,,,52.528278,-1.833871,Strauss
-England,,,52.528278,-1.833871,Strauss
-England,,,52.528278,-1.833871,Strauss
-England,,,52.528278,-1.833871,Strauss
-England,,,52.528278,-1.833871,Strauss
+United States,,,37.160477,-96.277202,Strauss
+England,,,52.598877,-1.466881,Strauss
+England,,,52.598877,-1.466881,Strauss
+England,,,52.598877,-1.466881,Strauss
+England,,,52.598877,-1.466881,Strauss
+England,,,52.598877,-1.466881,Strauss
 South Africa,,,-30.914272,24.148513,Strauss
-States,,,40.237693,-103.96806,Strauss
+States,,,37.160477,-96.277202,Strauss
 "Thetford, Vermont",,"Thetford, VT",43.821673,-72.249766,Zien
 "Knoxville, Tennessee",,"Knoxville, TN",35.98505,-83.929212,Zien
 Knoxville,,"Knoxville, TN",35.98505,-83.929212,Zien
 "Oak Ridge, Tennessee",,"Oak Ridge, TN",36.012236,-84.253159,Zien
-Tennessee,,TN,36.199614,-86.777043,Zien
-Tennessee,,TN,36.199614,-86.777043,Zien
-Tennessee,,TN,36.199614,-86.777043,Zien
+Tennessee,,,36.199614,-86.777043,Zien
+Tennessee,,,36.199614,-86.777043,Zien
+Tennessee,,,36.199614,-86.777043,Zien
 Mississippi [River],,,39.212995,-90.717675,Zien
-New York City,,"New York City, NY",40.697149,-73.889078,Zien
-Tennessee,,TN,36.199614,-86.777043,Zien
-United States,,,38.889529,-77.009305,Zien
-United States of America,,,38.889529,-77.009305,Zien
+New York City,,"New York, NY",40.71243,-73.979617,Zien
+Tennessee,,,36.199614,-86.777043,Zien
+United States,,,37.160477,-96.277202,Zien
+United States of America,,,37.160477,-96.277202,Zien
 "Oak Ridge, Tennessee",,"Oak Ridge, TN",36.012236,-84.253159,Zien
-Tennessee,,TN,36.199614,-86.777043,Zien
-Tennessee,,TN,36.199614,-86.777043,Zien
+Tennessee,,,36.199614,-86.777043,Zien
+Tennessee,,,36.199614,-86.777043,Zien
 "Milwaukee, Wisconsin",,"Milwaukee, WI",43.020668,-87.909074,Zien
-Tennessee,,TN,36.199614,-86.777043,Zien
-United States,,,38.889529,-77.009305,Zien
-Knoxville,,"Knoxville, TN",35.985054,-83.929212,Zien
-Knoxville,,"Knoxville, TN",35.985054,-83.929212,Zien
-Knoxville,,"Knoxville, TN",35.985054,-83.929212,Zien
+Tennessee,,,36.199614,-86.777043,Zien
+United States,,,37.160477,-96.277202,Zien
 Knoxville,,"Knoxville, TN",35.98505,-83.929212,Zien
 Knoxville,,"Knoxville, TN",35.98505,-83.929212,Zien
+Knoxville,,"Knoxville, TN",35.98505,-83.929212,Zien
+Knoxville,,"Knoxville, TN",35.98505,-83.929212,Zien
+Knoxville,,"Knoxville, TN",35.98505,-83.929212,Zien
 Tokyo,,Tokyo,35.6762,139.6503,Zien
 Tokyo,,Tokyo,35.6762,139.6503,Zien
 Tokyo,,Tokyo,35.6762,139.6503,Zien
-Japan,,,35.6762,139.6503,Zien
-U.S.,,,38.889529,-77.009305,Zien
-Japan,,,35.6762,139.6503,Zien
-Tennessee,,TN,36.199614,-86.777043,Zien
+Japan,,,36.6533356,137.9816895,Zien
+U.S.,,,37.160477,-96.277202,Zien
+Japan,,,36.6533356,137.9816895,Zien
+Tennessee,,,36.199614,-86.777043,Zien
 Wisconsin,,WI,43.028198,-87.91182,Zien
 Wisconsin,,WI,43.028198,-87.91182,Zien
-Hanover,,"Hanover, NH",43.703757,-72.288889,Zien
+Hanover,,"Hanover, NH",43.706744,-72.286914,Zien
 Wisconsin,,WI,43.028198,-87.91182,Zien
 Wisconsin,,WI,43.028198,-87.91182,Zien
 Russia,,,55.748355,37.604689,Zien
 Russia,,,55.748355,37.604689,Zien
-United States,,,38.889529,-77.009305,Zien
+United States,,,37.160477,-96.277202,Zien
 Russia,,,55.748355,37.604689,Zien
-United States,,,38.889529,-77.009305,Zien
-United States,,,38.889529,-77.009305,Zien
+United States,,,37.160477,-96.277202,Zien
+United States,,,37.160477,-96.277202,Zien
 Wisconsin,,WI,43.028198,-87.91182,Zien
-United States,,,38.889529,-77.009305,Zien
-American,,,38.889529,-77.009305,Zien
+United States,,,37.160477,-96.277202,Zien
+American,,,37.160477,-96.277202,Zien
 Wisconsin,,WI,43.028198,-87.91182,Zien
 Hitchcock Hall,18 Mass Row,"Hanover, NH",43.704819,-72.290656,Zien
 Hitchcock,18 Mass Row,"Hanover, NH",43.704819,-72.290656,Zien
 Hitchcock,18 Mass Row,"Hanover, NH",43.704819,-72.290656,Zien
-Dartmouth,,"Hanover, NH",43.703757,-72.288889,Zien
-Dartmouth,,"Hanover, NH",43.703757,-72.288889,Zien
-United States,,,38.889529,-77.009305,Zien
-Vietnam,,,21.018786,105.833333,Zien
-Vietnam,,,21.018786,105.833333,Zien
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Zien
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Zien
+United States,,,37.160477,-96.277202,Zien
+Vietnam,,,14.572049,108.128215,Zien
+Vietnam,,,14.572049,108.128215,Zien
 Hitchcock Hall,18 Mass Row,"Hanover, NH",43.704819,-72.290656,Zien
-Vietnam,,,21.018786,105.833333,Zien
-U.S.,,,38.889529,-77.009305,Zien
-United States,,,38.889529,-77.009305,Zien
+Vietnam,,,14.572049,108.128215,Zien
+U.S.,,,37.160477,-96.277202,Zien
+United States,,,37.160477,-96.277202,Zien
 North Vietnamese,,,21.018786,105.833333,Zien
-Vietnamese,,,21.018786,105.833333,Zien
-Vietnam,,,21.018786,105.833333,Zien
-United States,,,38.889529,-77.009305,Zien
-U.S.,,,38.889529,-77.009305,Zien
-United States of America,,,38.889529,-77.009305,Zien
-Mississippi,,MS,32.303925,-90.180744,Zien
-U.S.,,,38.889529,-77.009305,Zien
-American,,,38.88953,-77.009305,Zien
-Vietnam,,,21.018786,105.833333,Zien
-American,,,38.88953,-77.009305,Zien
-Texas,,TX,30.359615,-97.653191,Zien
-Texas,,TX,30.359615,-97.653191,Zien
-American,,,38.88953,-77.009305,Zien
+Vietnamese,,,14.572049,108.128215,Zien
+Vietnam,,,14.572049,108.128215,Zien
+United States,,,37.160477,-96.277202,Zien
+U.S.,,,37.160477,-96.277202,Zien
+United States of America,,,37.160477,-96.277202,Zien
+Mississippi,,,32.7218018,-89.6562424,Zien
+U.S.,,,37.160477,-96.277202,Zien
+American,,,37.160477,-96.277202,Zien
+Vietnam,,,14.572049,108.128215,Zien
+American,,,37.160477,-96.277202,Zien
+Texas,,,31.4627457,-99.333046,Zien
+Texas,,,31.4627457,-99.333046,Zien
+American,,,37.160477,-96.277202,Zien
 Ledyard Bridge,,"Hanover, NH",43.703555,-72.2995,Zien
 Ledyard Bridge,,"Hanover, NH",43.703555,-72.2995,Zien
-[Dartmouth] Green,,"Hanover, NH",43.703402,-72.288529,Zien
-U.S.,,,38.88953,-77.009305,Zien
-Vietnam,,,21.018786,105.833333,Zien
+[Dartmouth] Green,1 East Wheelock St,"Hanover, NH",43.703416,-72.288561,Zien
+U.S.,,,37.160477,-96.277202,Zien
+Vietnam,,,14.572049,108.128215,Zien
 Milwaukee,,"Milwaukee, WI",43.020668,-87.909074,Zien
-American,,,38.88953,-77.009305,Zien
+American,,,37.160477,-96.277202,Zien
 Milwaukee,,"Milwaukee, WI",43.020668,-87.909074,Zien
 Milwaukee,,"Milwaukee, WI",43.020668,-87.909074,Zien
 Milwaukee,,"Milwaukee, WI",43.020668,-87.909074,Zien
-Dartmouth,,"Hanover, NH",43.70376,-72.288889,Zien
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Zien
 Milwaukee,,"Milwaukee, WI",43.020668,-87.909074,Zien
 Los Angeles,,"Los Angeles, CA",34.057715,-118.329373,Zien
 Los Angeles,,"Los Angeles, CA",34.057715,-118.329373,Zien
 Los Angeles,,"Los Angeles, CA",34.057715,-118.329373,Zien
-Watts,,"Los Angeles, CA",33.937905,-118.241502,Zien
+Watts,,"Watts, CA",33.9412804,-118.2390289,Zien
 Pacific Coast Highway,,CA,37.598161,-122.501482,Zien
-Watts,,"Los Angeles, CA",33.937905,-118.241502,Zien
-Watts,,"Los Angeles, CA",33.937905,-118.241502,Zien
-Watts,,"Los Angeles, CA",33.937905,-118.241502,Zien
-Watts,,"Los Angeles, CA",33.937905,-118.241502,Zien
+Watts,,"Watts, CA",33.9412804,-118.2390289,Zien
+Watts,,"Watts, CA",33.9412804,-118.2390289,Zien
+Watts,,"Watts, CA",33.9412804,-118.2390289,Zien
+Watts,,"Watts, CA",33.9412804,-118.2390289,Zien
 Milwaukee,,"Milwaukee, WI",43.020668,-87.909074,Zien
-United States,,,38.88953,-77.009305,Zien
-Watts,,"Los Angeles, CA",33.937905,-118.241502,Zien
+United States,,,37.160477,-96.277202,Zien
+Watts,,"Watts, CA",33.9412804,-118.2390289,Zien
 Disneyland,,"Anaheim, CA",33.812056,-117.918985,Zien
-American,,,38.88953,-77.009305,Zien
+American,,,37.160477,-96.277202,Zien
 Disneyland,,"Anaheim, CA",33.812056,-117.918985,Zien
 Milwaukee,,"Milwaukee, WI",43.020668,-87.909074,Zien
-U.S.,,,38.88953,-77.009305,Zien
-Vietnam,,,21.018786,105.833333,Zien
-United States,,,38.88953,-77.009305,Zien
-Dartmouth,,"Hanover, NH",43.703757,-72.288889,Zien
-Dartmouth,,"Hanover, NH",43.703757,-72.288889,Zien
-Dartmouth,,"Hanover, NH",43.70376,-72.288889,Zien
-Dartmouth,,"Hanover, NH",43.70376,-72.288889,Zien
-Vietnam,,,21.018786,105.833333,Zien
-South Africa,,,-29.377985,24.703127,Zien
-South Africa,,,-29.377985,24.703127,Zien
-Vietnam,,,21.018786,105.833333,Zien
-Canada,,,45.423567,-75.700174,Zien
-Dartmouth,,"Hanover, NH",43.703757,-72.288889,Zien
-Vietnam,,,21.018786,105.833333,Zien
-Dartmouth,,"Hanover, NH",43.703757,-72.288889,Zien
-Dartmouth,,"Hanover, NH",43.703757,-72.288889,Zien
-New York City,,"New York City, NY",40.697149,-73.889078,Zien
-Boston,,"Boston, MA",42.338632,-71.097322,Zien
-Boston,,"Boston, MA",42.338632,-71.097322,Zien
-Washington,,"Washington D.C., DC",38.889529,-77.009305,Zien
-U.S.,,,38.88953,-77.009305,Zien
+U.S.,,,37.160477,-96.277202,Zien
+Vietnam,,,14.572049,108.128215,Zien
+United States,,,37.160477,-96.277202,Zien
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Zien
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Zien
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Zien
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Zien
+Vietnam,,,14.572049,108.128215,Zien
+South Africa,,,-30.914272,24.148513,Zien
+South Africa,,,-30.914272,24.148513,Zien
+Vietnam,,,14.572049,108.128215,Zien
+Canada,,,57.679315,-101.736004,Zien
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Zien
+Vietnam,,,14.572049,108.128215,Zien
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Zien
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Zien
+New York City,,"New York, NY",40.71243,-73.979617,Zien
+Boston,,"Boston, MA",42.359814,-71.058755,Zien
+Boston,,"Boston, MA",42.359814,-71.058755,Zien
+Washington,,"Washington, D.C.",38.90542,-77.036307,Zien
+U.S.,,,37.160477,-96.277202,Zien
 Arlington National Cemetery,,"Arlington, VA",38.8783,-77.06866,Zien
-Boston,,"Boston, MA",42.338632,-71.097322,Zien
+Boston,,"Boston, MA",42.359814,-71.058755,Zien
 Arlington National Cemetery,,"Arlington, VA",38.8783,-77.06866,Zien
-Vietnam,,,21.018786,105.833333,Zien
-Vietnamese,,,21.018786,105.833333,Zien
-Dartmouth,,"Hanover, NH",43.703757,-72.288889,Zien
-Vietnam,,,21.018786,105.833333,Zien
+Vietnam,,,14.572049,108.128215,Zien
+Vietnamese,,,14.572049,108.128215,Zien
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Zien
+Vietnam,,,14.572049,108.128215,Zien
 Milwaukee,,"Milwaukee, WI",43.020668,-87.909074,Zien
-New Hampshire,,NH,43.216231,-71.525797,Zien
-Hanover,,"Hanover, NH",43.703757,-72.288889,Zien
+New Hampshire,,,43.377371,-71.61681,Zien
+Hanover,,"Hanover, NH",43.706744,-72.286914,Zien
 Wisconsin,,WI,43.028198,-87.91182,Zien
-Washington,,"Washington D.C., DC",38.889529,-77.009305,Zien
-Washington,,"Washington D.C., DC",38.889529,-77.009305,Zien
+Washington,,"Washington, D.C.",38.90542,-77.036307,Zien
+Washington,,"Washington, D.C.",38.90542,-77.036307,Zien
 Wisconsin,,WI,43.028198,-87.91182,Zien
 Minnesota,,MN,44.965929,-93.26835,Zien
-New Hampshire,,NH,43.216231,-71.525797,Zien
+New Hampshire,,,43.377371,-71.61681,Zien
 Lebanon,,"Lebanon, NH",43.634146,-72.252426,Zien
-Vietnam,,,21.018786,105.833333,Zien
-New Hampshire,,NH,43.216231,-71.525797,Zien
+Vietnam,,,14.572049,108.128215,Zien
+New Hampshire,,,43.377371,-71.61681,Zien
 Canaan,,"Canaan, NH",43.677204,-72.045856,Zien
-Dartmouth,,"Hanover, NH",43.703757,-72.288889,Zien
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Zien
 Milwaukee,,"Milwaukee, WI",43.020668,-87.909074,Zien
-New Hampshire,,NH,43.216231,-71.525797,Zien
+New Hampshire,,,43.377371,-71.61681,Zien
 Lebanon,,"Lebanon, NH",43.634146,-72.252426,Zien
-Dartmouth,,"Hanover, NH",43.703757,-72.288889,Zien
-New Hampshire,,NH,43.216231,-71.525797,Zien
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Zien
+New Hampshire,,,43.377371,-71.61681,Zien
 Milwaukee,,"Milwaukee, WI",43.020668,-87.909074,Zien
-Dartmouth,,"Hanover, NH",43.703757,-72.288889,Zien
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Zien
 Webster Hall,,"Hanover, NH",43.706482,-72.292566,Zien
 Lebanon,,"Lebanon, NH",43.634146,-72.252426,Zien
-New Hampshire,,NH,43.216231,-71.525797,Zien
-American,,,38.88953,-77.009305,Zien
+New Hampshire,,,43.377371,-71.61681,Zien
+American,,,37.160477,-96.277202,Zien
 Wisconsin,,WI,43.028198,-87.91182,Zien
 Wisconsin,,WI,43.028198,-87.91182,Zien
-New Hampshire,,NH,43.216231,-71.525797,Zien
+New Hampshire,,,43.377371,-71.61681,Zien
 Milwaukee,,"Milwaukee, WI",43.020668,-87.909074,Zien
 Wisconsin,,WI,43.028198,-87.91182,Zien
-New Hampshire,,NH,43.216231,-71.525797,Zien
+New Hampshire,,,43.377371,-71.61681,Zien
 Milwaukee,,"Milwaukee, WI",43.020668,-87.909074,Zien
 Wisconsin,,WI,43.028198,-87.91182,Zien
 Wisconsin,,WI,43.028198,-87.91182,Zien
-America,,,38.88953,-77.009305,Zien
-Canada,,,45.423567,-75.700174,Zien
-American,,,38.88953,-77.009305,Zien
-American,,,38.88953,-77.009305,Zien
-American,,,38.88953,-77.009305,Zien
-Dartmouth,,"Hanover, NH",43.703757,-72.288889,Zien
-Dartmouth,,"Hanover, NH",43.703757,-72.288889,Zien
-Dartmouth,,"Hanover, NH",43.703757,-72.288889,Zien
-Philadelphia,,"Philadelphia, PA",40.005044,-75.12765,Zien
-Philadelphia,,"Philadelphia, PA",40.005044,-75.12765,Zien
-Philadelphia,,"Philadelphia, PA",40.005044,-75.12765,Zien
-Philadelphia,,"Philadelphia, PA",40.005044,-75.12765,Zien
-America,,,38.88953,-77.009305,Zien
-Hanover,,"Hanover, NH",43.703757,-72.288889,Zien
-Philadelphia,,"Philadelphia, PA",40.005044,-75.12765,Zien
+America,,,37.160477,-96.277202,Zien
+Canada,,,57.679315,-101.736004,Zien
+American,,,37.160477,-96.277202,Zien
+American,,,37.160477,-96.277202,Zien
+American,,,37.160477,-96.277202,Zien
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Zien
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Zien
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Zien
+Philadelphia,,"Philadelphia, PA",39.9522209,-75.162178,Zien
+Philadelphia,,"Philadelphia, PA",39.9522209,-75.162178,Zien
+Philadelphia,,"Philadelphia, PA",39.9522209,-75.162178,Zien
+Philadelphia,,"Philadelphia, PA",39.9522209,-75.162178,Zien
+America,,,37.160477,-96.277202,Zien
+Hanover,,,43.377371,-71.61681,Zien
+Philadelphia,,"Philadelphia, PA",39.9522209,-75.162178,Zien
 "Albany,Vermont",,"Albany, VT",44.740293,-72.34302,Zien
 Norwich,,"Norwich, VT ",43.754758,-72.324266,Zien
 Norwich,,"Norwich, VT ",43.754758,-72.324266,Zien
 91,,,44.671428,-72.132994,Zien
 Norwich,,"Norwich, VT ",43.754758,-72.324266,Zien
-Dartmouth,,"Hanover, NH",43.703757,-72.288889,Zien
-American,,,38.88953,-77.009305,Zien
-Iraq,,,33.314863,44.384307,Zien
-Afghanistan,,,34.538682,69.244385,Zien
+Dartmouth,,"Hanover, NH",43.704425,-72.288704,Zien
+American,,,37.160477,-96.277202,Zien
+Iraq,,,33.040648,43.182035,Zien
+Afghanistan,,,33.939593,67.709967,Zien
 Kuwait,,,29.374793,47.98015,Zien
-Vietnam,,,21.018786,105.833333,Zien
-Vietnamese,,,21.018786,105.833333,Zien
-United States of America,,,38.88953,-77.009305,Zien
-Vietnamese,,,21.018786,105.833333,Zien
-Vietnamese,,,21.018786,105.833333,Zien
-Vietnam,,,21.018786,105.833333,Zien
-American,,,38.88953,-77.009305,Zien
-U.S.,,,38.88953,-77.009305,Zien
-Parkhurst,14 N Main St,"Hanover, NH",43.703987,-72.289967,Zien
-Vietnam,,,21.018786,105.833333,Zien
+Vietnam,,,14.572049,108.128215,Zien
+Vietnamese,,,14.572049,108.128215,Zien
+United States of America,,,37.160477,-96.277202,Zien
+Vietnamese,,,14.572049,108.128215,Zien
+Vietnamese,,,14.572049,108.128215,Zien
+Vietnam,,,14.572049,108.128215,Zien
+American,,,37.160477,-96.277202,Zien
+U.S.,,,37.160477,-96.277202,Zien
+Parkhurst,14 N Main St,"Hanover, NH",43.70367,-72.28956,Zien
+Vietnam,,,14.572049,108.128215,Zien
