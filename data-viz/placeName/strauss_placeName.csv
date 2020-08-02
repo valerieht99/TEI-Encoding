@@ -1,7 +1,7 @@
-﻿name,address,city,latitude,longitude
-Rauner [Special Collections] Library,6065 Webster Ave,Hanover,43.704608,-72.288208
-Dartmouth College,,Hanover,43.704375,-72.289169
-"Hanover, New Hampshire",,Hanover,43.70304,-72.289372
+name,address,city,latitude,longitude
+Rauner [Special Collections] Library,6065 Webster Ave,"Hanover, NH",43.704463,-72.288231
+Dartmouth College,,"Hanover, NH",43.704425,-72.288704
+"Hanover, New Hampshire",,"Hanover, NH",43.706744,-72.286914
 London,,London,51.508242,-0.127713
 South Africa,,,-30.914272,24.148513
 South Africa,,,-30.914272,24.148513
@@ -9,7 +9,7 @@ Cambridge [England],,Cambridge,52.218956,0.123413
 Paris [France],,Paris,48.856524,2.353716
 London,,London,51.508242,-0.127713
 Vermont,,,44.378279,-72.783113
-States,,,40.237693,-103.96806
+States,,,37.160477,-96.277202
 Vermont,,,44.378279,-72.783113
 South Africa,,,-30.914272,24.148513
 South Africa,,,-30.914272,24.148513
@@ -35,38 +35,38 @@ Paris,,Paris,48.856524,2.353716
 Paris,,Paris,48.856524,2.353716
 Geneva,,Geneva,46.205008,6.14443
 London,,London,51.508242,-0.127713
-America,,,40.237693,-103.96806
+America,,,37.160477,-96.277202
 London,,London,51.508242,-0.127713
 Vermont,,,44.378279,-72.783113
-America,,,40.237693,-103.96806
+America,,,37.160477,-96.277202
 Vermont,,,44.378279,-72.783113
-America,,,40.237693,-103.96806
+America,,,37.160477,-96.277202
 South Africa,,,-30.914272,24.148513
 Vermont,,,44.378279,-72.783113
-States,,,40.237693,-103.96806
-Washington,,Washington,38.909611,-77.043869
-Washington,,Washington,38.909611,-77.043869
-D.C.,,Washington,38.909611,-77.043869
-England,,,52.528278,-1.833871
-America,,,40.237693,-103.96806
-Vietnam,,,14.333615,108.423797
+States,,,37.160477,-96.277202
+Washington,,"Washington, D.C.",38.90542,-77.036307
+Washington,,"Washington, D.C.",38.90542,-77.036307
+D.C.,,"Washington, D.C.",38.90542,-77.036307
+England,,,52.598877,-1.466881
+America,,,37.160477,-96.277202
+Vietnam,,,14.572049,108.128215
 Vermont,,,44.378279,-72.783113
-England,,,52.528278,-1.833871
-England,,,52.528278,-1.833871
-England,,,52.528278,-1.833871
-North Vietnam,,,21.466764,105.986617
+England,,,52.598877,-1.466881
+England,,,52.598877,-1.466881
+England,,,52.598877,-1.466881
+North Vietnam,,,21.018786,105.833333
 Israel,,,30.991976,34.958131
-England,,,52.528278,-1.833871
-Dartmouth,,Hanover,43.704375,-72.289169
+England,,,52.598877,-1.466881
+Dartmouth,,"Hanover, NH",43.704425,-72.288704
 London,,London,51.508242,-0.127713
-States,,,40.237693,-103.96806
-England,,,52.528278,-1.833871
+States,,,37.160477,-96.277202
+England,,,52.598877,-1.466881
 South Africa,,,-30.914272,24.148513
-United States,,,40.237693,-103.96806
-England,,,52.528278,-1.833871
-England,,,52.528278,-1.833871
-England,,,52.528278,-1.833871
-England,,,52.528278,-1.833871
-England,,,52.528278,-1.833871
+United States,,,37.160477,-96.277202
+England,,,52.598877,-1.466881
+England,,,52.598877,-1.466881
+England,,,52.598877,-1.466881
+England,,,52.598877,-1.466881
+England,,,52.598877,-1.466881
 South Africa,,,-30.914272,24.148513
-States,,,40.237693,-103.96806
+States,,,37.160477,-96.277202
