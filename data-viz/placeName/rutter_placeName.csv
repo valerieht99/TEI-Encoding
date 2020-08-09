@@ -1,37 +1,37 @@
-﻿name,address,city,latitude,longitude
+name,address,city,latitude,longitude
 Jones Media Center,6025 Baker-Berry Library,"Hanover, NH",43.7024689,-72.2885437
 Baker-Berry Library,6025 Baker-Berry Library,"Hanover, NH",43.7024689,-72.2885437
 "Hanover, NH",,"Hanover, NH",43.7024689,-72.2885437
-Boston,,"Boston, MA",42.3586617,-71.0567398
-Boston,,"Boston, MA",42.3586617,-71.0567398
-Boston,,"Boston, MA",42.3586617,-71.0567398
+Boston,,"Boston, MA",42.359814,-71.058755
+Boston,,"Boston, MA",42.359814,-71.058755
+Boston,,"Boston, MA",42.359814,-71.058755
 Italy,,,43.5290298,12.1621838
 Genoa,,Genoa,44.4103889,8.9389801
 Vienna [Austria],,Vienna,48.2026291,16.3684196
-Washington [D.C.],,Washington [D.C.],38.8903694,-77.0319595
+Washington [D.C.],,"Washington, D.C.",38.90542,-77.036307
 London [England],,London [England],51.4724693,-0.45288
-Washington,,,47.4112968,-120.5562668
-New Hampshire,,,43.6855278,-71.5775986
-New Hampshire,,,43.6855278,-71.5775986
+Washington,,"Washington, D.C.",38.90542,-77.036307
+New Hampshire,,,43.377371,-71.61681
+New Hampshire,,,43.377371,-71.61681
 Greece,,,39.3474388,22.5712681
-U.S.,,,39.4959106,-98.9899826
+U.S.,,,37.160477,-96.277202
 England,,,52.598877,-1.466881
-America,,,39.4959106,-98.9899826
-U.S.,,,39.4959106,-98.9899826
+America,,,37.160477,-96.277202
+U.S.,,,37.160477,-96.277202
 Exeter,20 Main Street,"Exeter, NH",42.98055,-70.95082
 Exeter,20 Main Street,"Exeter, NH",42.98055,-70.95082
 England,,,52.598877,-1.466881
-Exeter,,,50.719841,-3.53019
+Exeter,20 Main Street,"Exeter, NH",42.98055,-70.95082
 Delaware,,,39.0081291,-75.4674683
-America,,,39.4959106,-98.9899826
+America,,,37.160477,-96.277202
 Exeter,20 Main Street,"Exeter, NH",42.98055,-70.95082
-America,,,39.4959106,-98.9899826
-Vietnam,,,16.1676922,107.8390503
+America,,,37.160477,-96.277202
+Vietnam,,,14.572049,108.128215
 England,,,52.598877,-1.466881
 Exeter,20 Main Street,"Exeter, NH",42.98055,-70.95082
 Haverford [College],370 Lancaster Avenue,"Haverford, PA",40.006933,-75.305609
 Haverford [College],370 Lancaster Avenue,"Haverford, PA",40.006933,-75.305609
-New Hampshire,,,43.6855278,-71.5775986
+New Hampshire,,,43.377371,-71.61681
 Exeter,20 Main Street,"Exeter, NH",42.98055,-70.95082
 Princeton [University],70 Washington Road,"Princeton, NJ",40.34663,-74.6536
 Princeton [University],70 Washington Road,"Princeton, NJ",40.34663,-74.6536
@@ -41,8 +41,8 @@ Princeton [University],70 Washington Road,"Princeton, NJ",40.34663,-74.6536
 Princeton [University],70 Washington Road,"Princeton, NJ",40.34663,-74.6536
 Exeter,20 Main Street,"Exeter, NH",42.98055,-70.95082
 Princeton [University],70 Washington Road,"Princeton, NJ",40.34663,-74.6536
-Dartmouth,6016 McNutt Hall,"Hanover, NH",43.70356,-72.289908
-Dartmouth,6016 McNutt Hall,"Hanover, NH",43.70356,-72.289908
+Dartmouth,,"Hanover, NH",43.704425,-72.288704
+Dartmouth,,"Hanover, NH",43.704425,-72.288704
 Haverford [College],370 Lancaster Avenue,"Haverford, PA",40.006933,-75.305609
 Haverford [College],370 Lancaster Avenue,"Haverford, PA",40.006933,-75.305609
 Haverford [College],370 Lancaster Avenue,"Haverford, PA",40.006933,-75.305609
@@ -57,117 +57,117 @@ Haverford,370 Lancaster Avenue,"Haverford, PA",40.006933,-75.305609
 Haverford,370 Lancaster Avenue,"Haverford, PA",40.006933,-75.305609
 Haverford,370 Lancaster Avenue,"Haverford, PA",40.006933,-75.305609
 Haverford,370 Lancaster Avenue,"Haverford, PA",40.006933,-75.305609
-America,,,39.4959106,-98.9899826
+America,,,37.160477,-96.277202
 Rock Creek,,"Washington, D.C.",38.8903694,-77.0319595
 Rock Creek,,"Washington, D.C.",38.8903694,-77.0319595
-U.S.,,,39.4959106,-98.9899826
+U.S.,,,37.160477,-96.277202
 Philadelphia,,"Philadelphia, PA",39.9522209,-75.162178
 Haverford,370 Lancaster Avenue,"Haverford, PA",40.006933,-75.305609
 Italy,,,43.5290298,12.1621838
 Rome,,Rome,41.9032211,12.4956503
 Mississippi,,,32.7218018,-89.6562424
 Lincoln Memorial,2 Lincoln Memorial Circle,"Washington, D.C.",38.88922,-77.05016
-St. Andrew’s,350 Noxontown Road,"Middletown, DE",39.43382,-75.68904
+St. Andrew's,350 Noxontown Road,"Middletown, DE",39.43382,-75.68904
 Delaware,,,39.0081291,-75.4674683
 Nuremberg,,Nuremberg,49.4543419,11.0734901
 Nuremberg,,Nuremberg,49.4543419,11.0734901
 Exeter,20 Main Street,"Exeter, NH",42.98055,-70.95082
-Massachusetts,,,42.1561852,-71.5661926
+Massachusetts,,,42.407091,-71.382293
 Exeter,20 Main Street,"Exeter, NH",42.98055,-70.95082
-New Hampshire,,,43.6855278,-71.5775986
-Vietnam,,,16.1676922,107.8390503
+New Hampshire,,,43.377371,-71.61681
+Vietnam,,,14.572049,108.128215
 Philadelphia,,"Philadelphia, PA",39.9522209,-75.162178
 Haverford,370 Lancaster Avenue,"Haverford, PA",40.006933,-75.305609
 Penn,,"Philadelphia, PA",39.9500008,-75.1541672
 Bryn Mawr,101 N Merion Avenue,"Bryn Mawr, PA",40.027582,-75.315186
-Canada,,,50.95957,-1.58912
+Canada,,,57.679315,-101.736004
 Montreal,,Montreal,45.5234985,-73.6807251
 Italy,,,43.5290298,12.1621838
 Bay of Naples,,Naples,40.7209854,14.2923613
 Ischia,,Ischia,40.7330017,13.9499998
-Vietnam,,,16.1676922,107.8390503
+Vietnam,,,14.572049,108.128215
 Fort Bliss,,El Paso,31.8125095,-106.4383469
 Texas,,,31.4627457,-99.333046
 Fort Dix,,Burlington County,40.0216789,-74.6291122
 Philly,,"Philadelphia, PA",39.9522209,-75.162178
-Dix,,Burlington County,39.8775177,-74.6679001
-Vietnam,,,16.1676922,107.8390503
+Dix,,Burlington County,40.0216789,-74.6291122
+Vietnam,,,14.572049,108.128215
 Fort Dix,,Burlington County,40.0216789,-74.6291122
 Georgia,,,32.6483307,-83.4445572
-Vietnam,,,16.1676922,107.8390503
+Vietnam,,,14.572049,108.128215
 Philadelphia,,"Philadelphia, PA",39.9522209,-75.162178
-Vietnam,,,16.1676922,107.8390503
+Vietnam,,,14.572049,108.128215
 Fort Gordon,,"Augusta, GA",33.3989182,-82.1227493
 Georgia,,,32.6483307,-83.4445572
 Philly,,"Philadelphia, PA",39.9522209,-75.162178
-Germany,,,51.1218071,10.4006948
-Vietnam,,,16.1676922,107.8390503
-Vietnam,,,16.1676922,107.8390503
-Vietnam,,,16.1676922,107.8390503
-Vietnam,,,16.1676922,107.8390503
+Germany,,,51.251508,10.487078
+Vietnam,,,14.572049,108.128215
+Vietnam,,,14.572049,108.128215
+Vietnam,,,14.572049,108.128215
+Vietnam,,,14.572049,108.128215
 Italy,,,43.5290298,12.1621838
-Vietnam,,,16.1676922,107.8390503
-Vietnam,,,16.1676922,107.8390503
-Vietnam,,,16.1676922,107.8390503
+Vietnam,,,14.572049,108.128215
+Vietnam,,,14.572049,108.128215
+Vietnam,,,14.572049,108.128215
 I,,,15.656681,108.079846
 II,,,13.528398,108.476828
 III,,,11.14921,106.944778
 IV Corps,,,9.734344,105.401278
-Vietnam,,,16.1676922,107.8390503
-Vietnamese,,,16.1676922,107.8390503
-Vietnam,,,16.1676922,107.8390503
+Vietnam,,,14.572049,108.128215
+Vietnamese,,,14.572049,108.128215
+Vietnam,,,14.572049,108.128215
 Guadalcanal [Solomon Islands],,,-9.6190243,160.1548004
 "Cam Ranh Bay [sic; Cam Ranh Air Base, now Cam Ranh International Airport]",,Phan Rang,11.562686,108.9947739
-Vietnam,,,16.1676922,107.8390503
+Vietnam,,,14.572049,108.128215
 Exeter,20 Main Street,"Exeter, NH",42.98055,-70.95082
-Vietnam,,,16.1676922,107.8390503
-Vietnam,,,16.1676922,107.8390503
+Vietnam,,,14.572049,108.128215
+Vietnam,,,14.572049,108.128215
 Cam Ranh Bay Airport,,Phan Rang,11.562686,108.9947739
-Dĩ An,,Saigon,10.8219604,106.6400375
+D_ An,,Saigon,10.8219604,106.6400375
 III Corps,,,11.14921,106.944778
-Saigon,,Saigon,10.8219604,106.6400375
-Parrot’s Peak,,Svay Rieng Province,11.1538963,105.8613968
-Dĩ An,,Saigon,10.8219604,106.6400375
-Vietnam,,,16.1676922,107.8390503
+Saigon,,"Ho Chi Minh City, Vietnam",10.8219604,106.6400375
+Parrot's Peak,,Svay Rieng Province,11.1538963,105.8613968
+D_ An,,Saigon,10.8219604,106.6400375
+Vietnam,,,14.572049,108.128215
 Cam Ranh,,Phan Rang,11.92474,109.16332
 Cam Ranh,,Phan Rang,11.92474,109.16332
-U.S.,,,39.4959106,-98.9899826
+U.S.,,,37.160477,-96.277202
 Philadelphia,,"Philadelphia, PA",39.9522209,-75.162178
-II Corps,,,44.8185196,5.9474902
+II Corps,,,13.528398,108.476828
 Cam Ranh,,Phan Rang,11.92474,109.16332
 Cam Ranh,,Phan Rang,11.92474,109.16332
 Phan Rang,,Phan Rang,11.92474,109.16332
 Phan Rang,,Phan Rang,11.92474,109.16332
 Phan Rang,,Phan Rang,11.92474,109.16332
-Vietnam,,,16.1676922,107.8390503
-Vietnam,,,16.1676922,107.8390503
+Vietnam,,,14.572049,108.128215
+Vietnam,,,14.572049,108.128215
 Athens,,"Athens, Georgia",33.97017,-83.38426
 Haverford,370 Lancaster Avenue,"Haverford, PA",40.006933,-75.305609
-Vietnam,,,16.1676922,107.8390503
-Vietnam,,,16.1676922,107.8390503
-Vietnam,,,16.1676922,107.8390503
-Hawaii,,,19.5985184,-155.5185547
+Vietnam,,,14.572049,108.128215
+Vietnam,,,14.572049,108.128215
+Vietnam,,,14.572049,108.128215
+Hawaii,,,19.898745,-155.581358
 Philadelphia,,"Philadelphia, PA",39.9522209,-75.162178
-Vietnam,,,16.1676922,107.8390503
+Vietnam,,,14.572049,108.128215
 Japan,,,36.6533356,137.9816895
 Alaska,,,63.1741142,-153.7042694
 Japan,,,36.6533356,137.9816895
 Alaska,,,63.1741142,-153.7042694
-Vietnam,,,16.1676922,107.8390503
-Vietnam,,,16.1676922,107.8390503
+Vietnam,,,14.572049,108.128215
+Vietnam,,,14.572049,108.128215
 Greece,,,39.3474388,22.5712681
 Bahamas,,,33.6436,-117.64028
-Chicago,,"Chicago, IL",41.7922173,-87.6018372
+Chicago,,"Chicago, IL",41.877702,-87.629009
 Greece,,,39.3474388,22.5712681
 Greece,,,39.3474388,22.5712681
 Penn,,"Philadelphia, PA",39.9500008,-75.1541672
 Greece,,,39.3474388,22.5712681
-New Hampshire,,,43.6855278,-71.5775986
-Dartmouth,6016 McNutt Hall,"Hanover, NH",43.70356,-72.289908
-Dartmouth,6016 McNutt Hall,"Hanover, NH",43.70356,-72.289908
-U.S.,,,39.4959106,-98.9899826
-Vietnam,,,16.1676922,107.8390503
-Vietnam,,,16.1676922,107.8390503
+New Hampshire,,,43.377371,-71.61681
+Dartmouth,,"Hanover, NH",43.704425,-72.288704
+Dartmouth,,"Hanover, NH",43.704425,-72.288704
+U.S.,,,37.160477,-96.277202
+Vietnam,,,14.572049,108.128215
+Vietnam,,,14.572049,108.128215
 Haverford,370 Lancaster Avenue,"Haverford, PA",40.006933,-75.305609
 Philly,,"Philadelphia, PA",39.9522209,-75.162178
-Vietnam,,,16.1676922,107.8390503
+Vietnam,,,14.572049,108.128215
