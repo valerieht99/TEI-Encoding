@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Transcript of an Interview with a Narrator</title>
+        <title>Transcript of an Interview with a John Everett</title>
       </titleStmt>
       <publicationStmt>
         <authority>
@@ -51,7 +51,7 @@
       </particDesc>
       <settingDesc>
         <setting>
-          <date when-iso="08-07"/>
+          <date when-iso="2014-08-07"/>
           <locale/>
         </setting>
       </settingDesc>
