@@ -1,6 +1,6 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="dvp_001">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -13,6 +13,7 @@
         <date>
           <!--  Date of publication, e.g. for citation purposes  -->
         </date>
+        <idno type="DDHI">dvp_001</idno>
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
