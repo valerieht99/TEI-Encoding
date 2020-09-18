@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>--insert song title--</title>
+                <respStmt>
+                    <resp>artist</resp>
+                    <persName>--insert artist name--</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>--insert record label name--</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>--insert album title--</p>
+                <p>--insert date of release--</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <u who="artist">
+                
+            </u>
+        </body>
+    </text>
+</TEI>
