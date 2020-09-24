@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>The Louvre</title>
+                <respStmt>
+                    <resp>artist</resp>
+                    <persName>Lorde</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Lava Records, Republic Records </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Melodrama</p>
+                <p>June 16, 2017</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <u who="artist">
+                Well, summer slipped us underneath her tongue
+                Our days and nights are perfumed with obsession
+                Half of my wardrobe is on your bedroom floor
+                Use our eyes, throw our hands overboard
+                I am your sweetheart psychopathic crush
+                Drink up your movements, still I can't get enough
+                I overthink your p-punctuation use
+                Not my fault, just a thing that my mind do
+                A rush at the beginning
+                I get caught up, just for a minute
+                But lover, you're the one to blame, all that you're doing
+                Can you hear the violence?
+                Megaphone to my chest
+                Broadcast the boom boom boom boom
+                And make 'em all dance to it
+                Broadcast the boom boom boom boom
+                And make 'em all dance to it
+                Broadcast the boom boom boom boom
+                And make 'em all dance to it
+                Broadcast the boom boom boom boom
+                And make 'em all dance to it
+                Broadcast the boom boom boom boom
+                And make 'em all dance to it
+                Our thing progresses, I call and you come through
+                Blow all my friendships to sit in hell with you
+                But we're the greatest, they'll hang us in the <placeName>Louvre</placeName> 
+                Down the back, but who cares, still the <placeName>Louvre</placeName>
+                Okay I know that you are not my type (still I fall)
+                I'm just the sucker who let you fill her mind (but what about love?)
+                Nothing wrong with it, supernatural
+                Just move in close to me, closer, you'll feel it coasting
+                A rush at the beginning
+                I get caught up, just for a minute
+                But lover, you're the one to blame, all that you're doing
+                Can you hear the violence?
+                Megaphone to my chest
+                Broadcast the boom boom boom boom
+                And make 'em all dance to it
+                Broadcast the boom boom boom boom
+                And make 'em all dance to it
+                Broadcast the boom boom boom boom
+                And make 'em all dance to it
+                Broadcast the boom boom boom boom
+                And make 'em all dance to it
+                Broadcast the boom boom boom boom
+                And make 'em all dance to it
+            </u>
+        </body>
+    </text>
+</TEI> 
