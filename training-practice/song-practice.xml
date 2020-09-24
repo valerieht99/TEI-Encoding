@@ -11,11 +11,10 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <p>--insert record label name--</p>
             </publicationStmt>
             <sourceDesc>
                 <p>--insert album title--</p>
-                <p>--insert date of release--</p>
+                <p>--insert title of album--</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
