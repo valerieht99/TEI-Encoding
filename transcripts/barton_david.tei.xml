@@ -15,7 +15,7 @@
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
-          <recording xml:id="primary_recording" type="audio" dur-iso="">
+          <recording xml:id="primary_recording" type="audio" dur-iso="2016">
             <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
             <media url="" mimeType="MIMEaudio/wav"/>
           </recording>
@@ -50,7 +50,7 @@
       </particDesc>
       <settingDesc>
         <setting>
-          <date when-iso=""/>
+          <date when-iso="2016"/>
           <locale/>
         </setting>
       </settingDesc>
@@ -272,7 +272,7 @@
       <u who="BARTON">“When you’re asked to do that,” I say, “you need to do that because when I was a student at—at <orgName>Johns Hopkins</orgName>, that’s what I formed a protest about.” I wanted—I wanted students to have a right to fill out questionnaires about a course. Was it good? Was the professor good? Did it cover the material? Did it—you know.</u>
       <u who="CARBONE">Mm-hm.</u>
       <u who="BARTON">And I lead the group that, you know, presented out petition [chuckles] to the—to the dean, so he knew I was an activist. [Both chuckle.] And at the end of my time at <orgName>Johns Hopkins</orgName>, he suggested a number of different things I should look at in terms of a career, but he’s the one that suggested <orgName>the American Friends Service Committee</orgName>, the <orgName>Quaker</orgName> service organization up in <placeName>Philadelphia</placeName>. He said, “I think they have a number of activities world wide—seminar activities and other things that you might be interested in.” And he was—he was a good person. I think he—I think he respected my activism, because hopefully I did it responsibly. [Both chuckle.] And it turned out to be a good suggestion in terms of—in terms of my future.</u>
-      <u who="CARBONE">Yeah. So you graduate from graduate school in <date when="1970">1970</date>. And by that time, <orgMame>the United States</orgMame> is using the lottery system for the draft, and you’ve just ended your education. Can you tell me about your experiences with that?</u>
+      <u who="CARBONE">Yeah. So you graduate from graduate school in <date when="1970">1970</date>. And by that time, <orgName>the United States</orgName> is using the lottery system for the draft, and you’ve just ended your education. Can you tell me about your experiences with that?</u>
       <u who="BARTON">With what? I’m sorry?</u>
       <u who="CARBONE">So you’ve finished your schooling, and you choose to go and work with <orgName>the American Friends Socie- —Friends Service Committee</orgName>, which is a <orgName>Quaker</orgName> organization. So I was just wondering if you could tell me more about, you know, Quakerism and your choice to go to <placeName>Vietnam</placeName> while at the same time there’s, like, a lottery draft in <placeName>the United States</placeName>.</u>
       <u who="BARTON">Right. Well, as I said, this dean suggested talking to the people up in <placeName>Philadelphia</placeName>. That’s where <orgName>the American Friends Service Committee</orgName> is based. So I—I did that. And they were interested in my working in—part of my background that I didn’t mention to you was—let’s see, when was that?</u>
